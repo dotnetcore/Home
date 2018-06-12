@@ -5,6 +5,10 @@ NCC 全称 .NET Core Community（同时保有 .NET China Community 的名称，�
 - NCC 成员项目一览：http://projects.dotnet-china.org
 - NCC 公开群：436035237
 
+# 财务情况
+
+NCC 接受来自社区的捐赠，所有款项将通过 [收支明细表](Statement-of-Income-and-Expense.md) 进行公示，接受社区监督。
+
 # 加入规范
 首先项目须满足以下两个规范
 
