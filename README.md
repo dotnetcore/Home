@@ -52,6 +52,8 @@ NCC 接受来自社区的捐赠，所有款项将通过 [收支明细表](Statem
 
 ## 捐赠二维码
 
-![捐赠我们](img/ncc-donation-qrcode.jpg)
+捐赠时请注明您的名字哦：）
+
+![捐赠我们](img/ncc-donation-qrcode.png)
 
 感谢您捐赠我们
