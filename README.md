@@ -6,7 +6,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex Lewis](https://github.com/alexinea), [Haoyang Liu](https://github.com/liuhaoyang), [Zhenxi He](https://github.com/utilcore), Yang Xie and Yu Lou in 2016. We hope that through our efforts, we can mekw the .NET Core ecosystem more exciting.
+.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex Lewis](https://github.com/alexinea), [Haoyang Liu](https://github.com/liuhaoyang), [Zhenxi He](https://github.com/utilcore), Yang Xie and Yu Lou in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
