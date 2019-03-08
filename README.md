@@ -13,7 +13,7 @@
 - QQ Group: 436035237
 - WeChat Group: _Consult in the QQ Group_
 
-## The history of NCC
+## The History of NCC
 
 NCC was founded in mid-2016, the original name is ".NET Core China Study Group". At the same time, we created a QQ Group called "dotNET Core Studing Group".
 
@@ -27,7 +27,7 @@ We have received support from many people, including the sponsorship of JetBrain
 
 Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the _NCC Top-Level Projects phase_. When a new project is applied to join NCC and successfully pass the review and complete the preparatory work before joining, the project will automatically enter the _NCC Sandbox Projects phase_. If you want to apply to join NCC, please read the [How to join us](#how-to-join-us) section.
 
-### Out Top-Level Projects
+### Our Top-Level Projects
 
 Projects in the _NCC Top-Level Projects phase_ can be used in production environments.
 
@@ -37,7 +37,7 @@ Projects in the _NCC Top-Level Projects phase_ can be used in production environ
 - **[NPOI](https://github.com/dotnetcore/NPOI)**, a .net library for reading and writing MsOffice binary and OOXML file formats.
 - **[Surging](https://github.com/dotnetcore/Surging)**, a distributed micro-service engine that provides high-performance RPC remote service calls.
 
-### Out Sandbox Projects
+### Our Sandbox Projects
 
 Projects in the _NCC Sandbox Projects phase_ are still in development and they need more time and practice to test their designs.
 
@@ -48,7 +48,7 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, A third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
 - **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
 
-## How to join us
+## How to Join Us
 
 ### Project requirements for joining NCC
 
