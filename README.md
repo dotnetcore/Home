@@ -15,7 +15,7 @@
 
 ## The History of NCC
 
-NCC was founded in mid-2016, the original name is ".NET Core China Study Group". At the same time, we created a QQ Group called "dotNET Core Studing Group".
+NCC was founded in mid-2016, the original name is ".NET Core China Study Group". At the same time, we created a QQ Group called "dotNET Core Studying Group".
 
 The original goal of NCC was to translate the documentation of Microsoft ASP.NET Core. We have received a lot of help and encouragement from many people. And the works of our translation alse provided great convenient for the first Chinese developers who learned ASP.NET Core.
 
