@@ -17,7 +17,7 @@
 
 NCC was founded in mid-2016, the original name is ".NET Core China Studying Group". At the same time, we created a QQ Group called "dotNET Core Studying Group".
 
-The original goal of NCC was to translate the documentation of Microsoft ASP.NET Core. We have received a lot of help and encouragement from many people ([List of contributors who joined in translation work in 2016](./docs/history/people-who-translated-in-2016.md)). And [the works of our translation](https://github.com/dotnetcore/aspnetcore-doc-cn) also provided great convenient for the first Chinese developers who learned ASP.NET Core.
+The original goal of NCC was to translate the documentation of Microsoft ASP.NET Core. We have received a lot of help and encouragement from many people ([List of contributors for 2016 translation project](./docs/history/people-who-translated-in-2016.md)). And [the works of our translation](https://github.com/dotnetcore/aspnetcore-doc-cn) also provided great convenient for the first Chinese developers who learned ASP.NET Core.
 
 After two years of challenge, NCC became an open source community organization with more than one dozen projects and multiple sub-teams.
 
@@ -47,6 +47,7 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, A third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
 - **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
+- **CanalSharp**, An open source for Alibaba Canal .NET Client. Canal is the Alibaba MySql database binlog incremental subscription & consumer components.
 
 ## How to Join Us
 
@@ -61,7 +62,10 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - Have at least 50 stars;
 - The project description is detailed, and project with sample code, documentation, and wiki;
 - Be NOT sponsored by a commercial company or organization and does NOT have paid employees;
+- WITHOUT ANY copyright issues;
 - Open source license.
+
+※ In special cases, the above requirements may be reduced as appropriate.
 
 ### Joining Step
 
