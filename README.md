@@ -41,13 +41,14 @@ Projects in the _NCC Top-Level Projects phase_ can be used in production environ
 
 Projects in the _NCC Sandbox Projects phase_ are still in development and they need more time and practice to test their designs.
 
-- **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
+- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, A third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
+- **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
+- **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
+- **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
-- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, A third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
-- **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
-- **CanalSharp**, An open source for Alibaba Canal .NET Client. Canal is the Alibaba MySql database binlog incremental subscription & consumer components.
+- **[ZKWeb](https://github.com/zkweb-framework/ZKWeb)**, an external project of NCC. ZKWeb a flexible web framework for .NET Framework and .NET Core with [plugin system](http://github.com/zkweb-framework/ZKWeb.Plugins) and template system.
 
 ## How to Join Us
 
