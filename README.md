@@ -21,6 +21,8 @@ The original goal of NCC was to translate the documentation of Microsoft ASP.NET
 
 After two years of challenge, NCC became an open source community organization with more than one dozen projects and multiple sub-teams.
 
+In 2019, we provided the NCC domain asset 'dotnet-china.com' to the .NET China Community Joint Meeting (NCJM), we started a new domain '[dotnetcore.xyz](https://www.dotnetcore.xyz)'. We NCC are working with NCJM, to make .NET GREATER together.
+
 We have received support from many people, including the sponsorship of JetBrains.
 
 ## Repos and Projects
@@ -31,7 +33,7 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 
 Projects in the _NCC Top-Level Projects phase_ can be used in production environments.
 
-- **[AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)**, an AOP-based cross platform framework for .NET Standard.
+- **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)**, an AOP-based cross platform framework for .NET Standard.
 - **[CAP](https://github.com/dotnetcore/CAP)**, a distributed transaction solution in microservice based on eventually consistency, also an eventbus with Outbox pattern.
 - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)**, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 - **[NPOI](https://github.com/dotnetcore/NPOI)**, a .net library for reading and writing MsOffice binary and OOXML file formats.
@@ -48,7 +50,9 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
-- **[ZKWeb](https://github.com/zkweb-framework/ZKWeb)**, an external project of NCC. ZKWeb a flexible web framework for .NET Framework and .NET Core with [plugin system](http://github.com/zkweb-framework/ZKWeb.Plugins) and template system.
+- **[ZKWeb](https://github.com/zkweb-framework/ZKWeb)**, an external project of NCC. ZKWeb is a flexible web framework for .NET Framework and .NET Core with [plugin system](http://github.com/zkweb-framework/ZKWeb.Plugins) and template system.
+
+Do you want to bea part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 
 ## How to Join Us
 
@@ -58,7 +62,7 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - Have clear git commit log;
 - Have complete unit test (over 65% coverage);
 - Have appropriate benchmark info (necessary for infrastructure projects);
-- Be created for at least three months and
+- Be created for at least three months;
 - Have contributed in the most recent month by the author or core contributors;
 - Have at least 50 stars;
 - The project description is detailed, and project with sample code, documentation, and wiki;
@@ -76,12 +80,12 @@ Submit you application in [dotnetcore/Home](https://github.com/dotnetcore/Home/i
 
 Please fill in the following items:
 
-1. Project description
-2. Project's GitHub repository URL
-3. Project's Website address
-4. Project's document/wiki
-5. Author and core contributors' info
-6. License
+1. Project description;
+2. Project's GitHub repository url;
+3. Project's Website address;
+4. Project's document/wiki;
+5. Author and core contributors' info;
+6. License.
 
 #### II. Preliminary Review and Technical Review
 
@@ -121,8 +125,7 @@ All donations will be managed by Haoyang liu and booked by Alex Lewis.
 
 ## Feedback
 
-If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
-
-If you having some questions about NCC, you can [leave an issue](https://github.com/dotnetcore/Home/issues/new) for us.
-
-You can alse join our QQ Group which number is 436035237. That QQ Group is a large group of 3K people, you can rest assured to join.
+- If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
+- If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
+- You can alse join our QQGroup (numbered 436035237).
+  That QQGroup is a large group of 3K people, much thanks to Yang Xie for paying the QQGroup every year.
