@@ -54,7 +54,7 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 
 ### Project requirements for joining NCC
 
-- Project based on .NET Standatd;
+- Project based on .NET Core (includes .NET Standard and .NETCoreApp);
 - Have clear git commit log;
 - Have complete unit test (over 65% coverage);
 - Have appropriate benchmark info (necessary for infrastructure projects);
