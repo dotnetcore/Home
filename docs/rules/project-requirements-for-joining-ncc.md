@@ -39,4 +39,4 @@
 
 - B01. 本标准的制订由 NCC 召集人会议负责，并交由 NCC 社区项目管理委员会审议并通过后生效；
 - B02. 本标准的修订由 NCC 召集人会议负责，并交由 NCC 社区项目管理委员会审议并通过后生效；
-- B03. 如本标准（及其附、附二）与 [Home](github.com/dotmetcore/home/README.md)、[WebSite](https://www.dotnetcore.xyz) 的矛盾，以本标准为准。
+- B03. 如本标准（及其附、附二）与 [Home](https://github.com/dotmetcore/home/README.md)、[WebSite](https://www.dotnetcore.xyz) 上版本矛盾的，以本文为准。

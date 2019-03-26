@@ -1,12 +1,12 @@
 <p>
-    <a href="https://www.dotnetcore.xyz" target="_blank">
+    <a href="https://www.dotnetcore.xyz" target="_blank" title="Home of .NET Core Community">
         <img width="100" src="./img/dotnetcore.png" />
     </a>
 </p>
 
 # .NET Core Community Home
 
-.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex Lewis](https://github.com/alexinea), [Haoyang Liu](https://github.com/liuhaoyang), [Zhenxi He](https://github.com/utilcore), Yang Xie and Yu Lou in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
+.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [Haoyang LIU](https://github.com/liuhaoyang), [Zhenxi HE](https://github.com/utilcore), [Yang XIE](https://github.com/kiler398) and Yu LOU in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
@@ -73,6 +73,8 @@ Do you want to bea part of us? The next great NCC project, will be yours. The [n
 
 ※ In special cases, the above requirements may be reduced as appropriate.
 
+[(Full version...)](./docs/rules/project-requirements-for-joining-ncc.md)
+
 ### Joining Step
 
 #### Step1. Application
@@ -102,13 +104,15 @@ The vote will over in 72 hours. After vote is over, result will be announced.
 
 NCC staff and project authors discuss the final steps to join NCC.
 
+[(Full version...)](./docs/rules/project-steps-for-joining-ncc.md)
+
 ## Fund management
 
 NCC accepts donations from communities and individuals. All donations will be made public through the [Statement-of-Income-and-Expense.md](Statement-of-Income-and-Expense.md) and subject to community supervision.
 
 ### Donation
 
-<img height=200 src="./img/ncc-donation-qrcode.png" />
+<img height=200 src="./img/ncc-donation-qrcode.png" title="Scan and donate"/>
 
 When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 

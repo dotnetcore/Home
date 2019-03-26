@@ -1,4 +1,4 @@
-# 关于加入 NCC 的步骤的标准
+# 关于加入 NCC 的步骤
 
 ## 步骤一、申请
 
@@ -16,8 +16,8 @@
 
 由 NCC 社区项目管理委员会的成员（及由 NCC 委派的人员）对项目进行审查，审查的内容包括：
 
-- （初步审查）项目是否符合[《关于申请加入 NCC 的项目的标准》](project-requirements-for-joining-ncc.md)所列的要求；
-- （初步审查）项目是否满足[《关于申请加入 NCC 的项目的标准》](project-requirements-for-joining-ncc.md)所提及的「特殊情况」，若满足则由 NCC 社区项目管理委员会讨论是否适当降低、如何适当降低标准的要求；
+- （初步审查）项目是否符合[《关于申请加入 NCC 的项目的标准》](project-requirements-for-joining-ncc.md)正文所列的要求；
+- （初步审查）项目是否满足[《关于申请加入 NCC 的项目的标准》](project-requirements-for-joining-ncc.md) A01 款所指之「特殊情况」，若满足则交由 NCC 项目管理委员会加以讨论；
 - （初步审查）项目的介绍、文档和 Wiki 的内容；
 - （技术审查）项目编码风格、项目结构的评估；
 - （技术审查）项目的技术水品、实用价值和潜力的评估；
@@ -57,4 +57,4 @@ NCC 大召集人（即五位联合创始人）拥有一票否决权。
 
 - B01. 本标准的制订由 NCC 召集人会议负责，并交由 NCC 社区项目管理委员会审议并通过后生效；
 - B02. 本标准的修订由 NCC 召集人会议负责，并交由 NCC 社区项目管理委员会审议并通过后生效；
-- B03. 如本标准（及其附、附二）与 [Home](github.com/dotmetcore/home/README.md)、[WebSite](https://www.dotnetcore.xyz) 的矛盾，以本标准为准。
+- B03. 如本标准（及其附、附二）与 [Home](https://github.com/dotmetcore/home/README.md)、[WebSite](https://www.dotnetcore.xyz) 上版本矛盾的，以本文为准。
