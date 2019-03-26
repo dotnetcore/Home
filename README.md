@@ -21,9 +21,9 @@ The original goal of NCC was to translate the documentation of Microsoft ASP.NET
 
 After two years of challenge, NCC became an open source community organization with more than one dozen projects and multiple sub-teams.
 
-In 2019, we provided the NCC domain asset 'dotnet-china.com' to the .NET China Community Joint Meeting (NCJM), we started a new domain '[dotnetcore.xyz](https://www.dotnetcore.xyz)'. We NCC are working with NCJM, to make .NET GREATER together.
-
 We have received support from many people, including the sponsorship of JetBrains.
+
+In 2019, we provided the NCC domain asset 'dotnet-china.com' to the [.NET China Community Joint Meeting (NCJM)](https://github.com/dotnet-china), we started a new domain '[dotnetcore.xyz](https://www.dotnetcore.xyz)'. We NCC are working with NCJM, to make .NET GREATER together.
 
 ## Repos and Projects
 
@@ -47,6 +47,7 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
 - **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
+- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, An excekkent open source code generator (of cause not only generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, it supports custom templates and multiple template styles, and supports multiple databases.
 - **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
