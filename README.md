@@ -47,7 +47,7 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
 - **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
-- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, An excekkent open source code generator (of cause not only generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, it supports custom templates and multiple template styles, and supports multiple databases.
+- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, An excellent open source code generator (of cause not only a generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, also supports custom templates and multiple template styles, and multiple databases.
 - **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
@@ -75,7 +75,7 @@ Do you want to bea part of us? The next great NCC project, will be yours. The [n
 
 ### Joining Step
 
-#### I. Application
+#### Step1. Application
 
 Submit you application in [dotnetcore/Home](https://github.com/dotnetcore/Home/issues/new).
 
@@ -88,17 +88,17 @@ Please fill in the following items:
 5. Author and core contributors' info;
 6. License.
 
-#### II. Preliminary Review and Technical Review
+#### Step2. Preliminary Review and Technical Review
 
 This work will be performed by the NCC Open Source Project Management Committee.
 
-#### III. Vote
+#### Step3. Vote
 
 Voted by the NCC Open Source Project Management Committee.
 
 The vote will over in 72 hours. After vote is over, result will be announced.
 
-#### IV. Discuss the details of joining the NCC
+#### Step4. Discuss the details of joining the NCC
 
 NCC staff and project authors discuss the final steps to join NCC.
 
