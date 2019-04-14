@@ -4,7 +4,7 @@
 
 **关于资金账目与收支透明的规定：**
 
-- [关于 NCC 组织及 NCC 各成员项目的收支透明度的规定](rules/rule-of-imcome-and-expense-transparency.md)
+- [关于 NCC 组织及 NCC 各成员项目的收支透明度的规定](docs/rules/rule-of-imcome-and-expense-transparency.md)
 
 ## 汇总
 
