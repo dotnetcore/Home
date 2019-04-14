@@ -2,6 +2,10 @@
 
 说明：为保证 NCC 财务公开透明，决定将每一笔捐赠和支出记录于本表，资金由 [Lemon](https://github.com/liuhaoyang) 托管，明细由 [AlexLEWIS](https://github.com/alexinea) 维护，由 NCC 社区财算小组管理，受 NCC 社区监督，向 NCC PMC Team 和 NCC 社区开源项目事务委员会汇报。
 
+**关于资金账目与收支透明的规定：**
+
+- [关于 NCC 组织及 NCC 各成员项目的收支透明度的规定](rules/rule-of-imcome-and-expense-transparency.md)
+
 ## 汇总
 
 截止到 2019 年 02 月 28 日：
