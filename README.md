@@ -6,7 +6,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [Haoyang LIU](https://github.com/liuhaoyang), [Zhenxi HE](https://github.com/utilcore), [Yang XIE](https://github.com/kiler398) and Yu LOU in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
+.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [Yang XIE](https://github.com/kiler398) and Yu LOU in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
@@ -120,7 +120,7 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 
 当你捐赠时，**请标注「NCC」，并留下你的名字**，万分感激。
 
-All donations will be managed by Haoyang liu and booked by Alex Lewis.
+All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 
 **Thank you for your donation.**
 
@@ -135,4 +135,4 @@ All donations will be managed by Haoyang liu and booked by Alex Lewis.
 - If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
 - You can alse join our QQGroup (numbered 436035237).
-  That QQGroup is a large group of 3K people, much thanks to Yang Xie for paying the QQGroup every year.
+  That QQGroup is a large group of 3K people, much thanks to XIE Yang for paying the QQGroup every year.
