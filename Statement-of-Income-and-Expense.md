@@ -6,6 +6,13 @@
 
 - [关于 NCC 组织及 NCC 各成员项目的收支透明度的规定](docs/rules/rule-of-income-and-expenditure-transparency.md)
 
+**未登记在册的财资贡献：**
+
+- Alex LEWIS 每年为 NCC 域名资产的续费
+- YANG Xiaodong 每年为 NCC 域名资产的续费
+- XIE Yang 每年为 NCC 主群（3000 人大群）的续费
+- JetBrains 为 NCC 赞助了许可证
+
 ## 汇总
 
 截止到 2019 年 08 月 02 日：
