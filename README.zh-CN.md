@@ -32,7 +32,7 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 
 ## 仓库与项目
 
-我们的诚园项目分为两阶段：_沙盒阶段（NCC Sandbox Projects phase）_ 和 _顶级项目阶段（NCC Top-Level Projects phase）_。当心项目申请加入 NCC 并完成评审和加入前的预备工作后，项目将自动进入 _沙盒阶段_。申请加入 NCC 请查阅[如何加入我们](#如何加入我们)一节。
+我们的成员项目分为两阶段：_沙盒阶段（NCC Sandbox Projects phase）_ 和 _顶级项目阶段（NCC Top-Level Projects phase）_。当新项目申请加入 NCC 并完成评审和加入前的全部流程（包括预备工作）后，项目将自动进入 _沙盒阶段_。申请加入 NCC 请查阅[如何加入我们](#如何加入我们)一节。
 
 ### 顶级项目
 
