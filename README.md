@@ -4,6 +4,11 @@
     </a>
 </p>
 
+<p align="center">
+    <span>English</span> |  
+    <a href="README.zh-CN.md">中文</a>
+</p>
+
 # .NET Core Community Home
 
 .NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [Yang XIE](https://github.com/kiler398) and Yu LOU in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
