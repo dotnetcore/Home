@@ -1,7 +1,7 @@
 # 关于 NCC 组织及 NCC 各成员项目的收支透明度的规定
 
 1. 为保证 NCC 财务收支的公开透明，明确 NCC 组织与 NCC 下各成员项目的资金账目关系，制定本规则；
-2. NCC 组织的收支明细表的路径为 [https://github.com/dotnetcore/Home/Statement-of-income-and-expense.md](Statement-of-Income-and-Expense.md)；
+2. NCC 组织的收支明细表的路径为 [https://github.com/dotnetcore/Home/blob/master/Statement-of-income-and-expense.md](../../Statement-of-Income-and-Expense.md)；
 3. NCC 组织的资金与账目由 NCC 社区财算小组管理，具体为：
    1. NCC 组织的资金由社区财算小组专人托管；
    2. NCC 组织的账目与收支明细由社区财算小组专人维护；
