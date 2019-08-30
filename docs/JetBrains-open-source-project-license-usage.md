@@ -4,8 +4,8 @@
 
 - ahoo wang (NCC SmartSql & NCC SmartCode)
 - fan liang (NCC Surging)
-- haoyang liu (NCC-PMC member & NCC-CC menber & NCC AspectCore)
+- haoyang liu (NCC-CC member & NCC AspectCore)
 - noah ji (NCC WTM)
 - rocher kong (NCC WTM)
-- zhenxi he (NCC-PMC member & NCC-CC menber & NCC Util-Framework)
+- zhenxi he (NCC-CC member & NCC Util-Framework)
 - yu lou (NCC-CC member)
