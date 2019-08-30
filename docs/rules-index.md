@@ -13,7 +13,7 @@
 
 ## 商业
 
-- [关于 NCC 组织成员项目的盈利与商业用途的阻隔规定](rules/rule-of-profit-and-commercial-use-barrier.md)
+- [关于 NCC 组织成员项目的营利与商业用途的阻隔规定](rules/rule-of-profit-and-commercial-use-barrier.md)
 
 ## 微信公众号
 

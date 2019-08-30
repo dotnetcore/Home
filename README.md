@@ -30,6 +30,10 @@ We have received support from many people, including the sponsorship of JetBrain
 
 In 2019, we provided the NCC domain asset 'dotnet-china.com' to the [.NET China Community Joint Meeting (NCJM)](https://github.com/dotnet-china), we started a new domain '[dotnetcore.xyz](https://www.dotnetcore.xyz)'. We NCC are working with NCJM, to make .NET GREATER together.
 
+## Our member code of conduct
+
+In order to build an open, innovative, inclusive and welcoming community, we have published the [Code of Conduct for Members](code-of-conduct.md).
+
 ## Repos and Projects
 
 Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the _NCC Top-Level Projects phase_. When a new project is applied to join NCC and successfully pass the review and complete the preparatory work before joining, the project will automatically enter the _NCC Sandbox Projects phase_. If you want to apply to join NCC, please read the [How to join us](#how-to-join-us) section.

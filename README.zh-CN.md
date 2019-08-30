@@ -30,6 +30,10 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 
 2019 年年初，我们向 [.NET 中文社区联席会议（.NET China Community Joint Meeting, NCJM）](https://github.com/dotnet-china)提供了 NCC 域名资产「dotnet-china.com」，并启用全新域名「[dotnetcore.xyz](https://www.dotnetcore.xyz)」。我们 NCC 将同联席会议（NCJM）一道，让 .NET 再现魅力。
 
+## 我们的行为准则
+
+为了建设开放、创新、包容和热情的社区，我们制定了[组织成员行为准则](code-of-conduct.zh-CN.md)。
+
 ## 仓库与项目
 
 我们的成员项目分为两阶段：_沙盒阶段（NCC Sandbox Projects phase）_ 和 _顶级项目阶段（NCC Top-Level Projects phase）_。当新项目申请加入 NCC 并完成评审和加入前的全部流程（包括预备工作）后，项目将自动进入 _沙盒阶段_。申请加入 NCC 请查阅[如何加入我们](#如何加入我们)一节。
