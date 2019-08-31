@@ -30,7 +30,7 @@ We have received support from many people, including the sponsorship of JetBrain
 
 In 2019, we provided the NCC domain asset 'dotnet-china.com' to the [.NET China Community Joint Meeting (NCJM)](https://github.com/dotnet-china), we started a new domain '[dotnetcore.xyz](https://www.dotnetcore.xyz)'. We NCC are working with NCJM, to make .NET GREATER together.
 
-## Our member code of conduct
+## Members' Code of Conduct
 
 In order to build an open, innovative, inclusive and welcoming community, we have published the [Code of Conduct for Members](code-of-conduct.md).
 
