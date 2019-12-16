@@ -56,6 +56,7 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**，开源缓存库，包含基本用法和缓存的高级用法，可助我们更轻松地处理缓存。
 - **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**，跨平台构建与部署自动化系统，基于 C# 代码构建项目和执行部署脚本。（[FlubuCore 的示例](https://github.com/dotnetcore/FlubuCore.Examples)）
+- **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
 - **[Natasha](https://github.com/dotnetcore/Natasha)**，简化 IL 操作，优化 IL 编程流程，并编写具有高性能的动态缓存。
 - **[SmartCode](https://github.com/dotnetcore/SmartCode)**，优秀的开源代码生成器（不仅仅是生成代码），它基于执行流程，支持 ETL 模式，高度灵活和可扩展，还支持自定义模板和多种模板样式，以及多种数据库。
 - **[SmartSql](https://github.com/dotnetcore/SmartSql)**，通过简单的连接字符串来运行，解析 SQL 的 XML 配置和各种性能观察方法，使性能问题一目了然。 SmartSql 具有与 Dapper 相似的性能水平，并提供许多特性：动态代理存储、分布式缓存、类型处理器、自动生成 CUD 代码、分布式 Id 生成器、性能诊断、AOP 级别的事务/缓存（内存，分布式缓存）、读/写分离、代码生成器、高性能的批量插入等。
@@ -72,52 +73,8 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 
 ## 如何加入我们
 
-### 要求
-
-- 项目基于 .NET Core（包括 .NET Standard 和 .NETCoreApp）；
-- 具有清晰的提交记录（git commit log）
-- 具有单元测试（且覆盖率在 65% 以上）
-- 具有适当的跑分数据（benchmark info），对于基础项目这是必须的；
-- 项目创建时间至少有三个月；
-- 作者或核心贡献者对项目的最后一次更新在一个月内；
-- 项目至少有 50 颗星；
-- 具有详细的项目描述、且带有项目示例、文档和 Wiki；
-- 没有商业组织和公司的赞助，也未有为项目开发者支付薪资的；
-- 不存在版权问题或纠纷；
-- 具有开源许可。
-
-※ 在特殊情况下，可适当降低某要求
-
-[（完整版要求...）](./docs/rules/project-requirements-for-joining-ncc.md)
-
-### 步骤
-
-#### 第一步 申请
-
-在 [dotnetcore/Home](https://github.com/dotnetcore/Home/issues/new) 提交申请，并确保申请中包含以下项：
-
-1. 项目描述；
-2. 项目官档（GitHub）地址；
-3. 项目官网地址；
-4. 项目文档/Wiki 的地址；
-5. 作者和核心贡献者信息；
-6. 许可证。
-
-#### 第二步 初步评审与技术评审
-
-将由 NCC 开源项目管理委员会处理这两部分的评审工作
-
-#### 第三步 投票
-
-将由 NCC 开源项目管理委员会发起内部投票。
-
-投票将在 72 小时内完成。投票后，将公示结果。
-
-#### 第四步 加入前预备工作
-
-NCC 工作人员将与项目作者讨论加入前的最后工作。
-
-[（完整版步骤...）](./docs/rules/project-steps-for-joining-ncc.md)
+- 项目要求：[project-requirements-for-joining-ncc.md](./docs/rules/project-requirements-for-joining-ncc.md)
+- 加入步骤：[project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md)
 
 ## 财资管理
 

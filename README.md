@@ -11,7 +11,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [Yang XIE](https://github.com/kiler398) and Yu LOU in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
+.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398) and LOU Yu in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
@@ -52,12 +52,13 @@ Projects in the _NCC Top-Level Projects phase_ can be used in production environ
 
 Projects in the _NCC Sandbox Projects phase_ are still in development and they need more time and practice to test their designs.
 
-- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, A third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
+- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
-- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**, A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
-- **[Natasha](https://github.com/dotnetcore/Natasha)**, Simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
-- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, An excellent open source code generator (of cause not only a generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, also supports custom templates and multiple template styles, and multiple databases.
+- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**, a cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
+- **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**, a common import and export library for Excel, Word, PDF and HTML.
+- **[Natasha](https://github.com/dotnetcore/Natasha)**, simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
+- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, an excellent open source code generator (of cause not only a generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, also supports custom templates and multiple template styles, and multiple databases.
 - **[SmartSql](https://github.com/dotnetcore/SmartSql)**, SmartSql provides a progressive development experience with simple connection string configuration to run, XML configuration to decouple SQL and a variety of performance observation methods to make performance problems clear at a glance. SmartSql maintains the same level of performance as Dapper and provides a number of features: dynamic proxy storage/distributed cache/type processor/automatic generation of CUD code/distributed Id generator/performance diagnosis/AOP level of things/caches (memory, distributed cache)/read/write separation/code generator/high performance batch insertion, etc.
 - **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
@@ -65,61 +66,15 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 
 #### Our External Sandbox Project
 
-- **[KoobooJson](https://github.com/kooboo/Json)**, Smaller and Faster C# JSON Serialization Tool (Construction Based on Expression Tree)
+- **[KoobooJson](https://github.com/kooboo/Json)**, smaller and faster C# JSON serialization tool (construction based on expression tree)
 - **[ZKWeb](https://github.com/zkweb-framework/ZKWeb)**, an external project of NCC. ZKWeb is a flexible web framework for .NET Framework and .NET Core with [plugin system](http://github.com/zkweb-framework/ZKWeb.Plugins) and template system.
 
 Do you want to bea part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 
 ## How to Join Us
 
-### Project requirements for joining NCC
-
-- Project based on .NET Core (includes .NET Standard and .NETCoreApp);
-- Have clear git commit log;
-- Have complete unit test (over 65% coverage);
-- Have appropriate benchmark info (necessary for infrastructure projects);
-- Be created for at least three months;
-- Have contributed in the most recent month by the author or core contributors;
-- Have at least 50 stars;
-- The project description is detailed, and project with sample code, documentation, and wiki;
-- Be NOT sponsored by a commercial company or organization and does NOT have paid employees;
-- WITHOUT ANY copyright issues;
-- Open source license.
-
-※ In special cases, the above requirements may be reduced as appropriate.
-
-[(Full version...)](./docs/rules/project-requirements-for-joining-ncc.md)
-
-### Joining Step
-
-#### Step1. Application
-
-Submit you application in [dotnetcore/Home](https://github.com/dotnetcore/Home/issues/new).
-
-Please fill in the following items:
-
-1. Project description;
-2. Project's GitHub repository url;
-3. Project's Website address;
-4. Project's document/wiki;
-5. Author and core contributors' info;
-6. License.
-
-#### Step2. Preliminary Review and Technical Review
-
-This work will be performed by the NCC Open Source Project Management Committee.
-
-#### Step3. Vote
-
-Voted by the NCC Open Source Project Management Committee.
-
-The vote will over in 72 hours. After vote is over, result will be announced.
-
-#### Step4. Discuss the details of joining the NCC
-
-NCC staff and project authors discuss the final steps to join NCC.
-
-[(Full version...)](./docs/rules/project-steps-for-joining-ncc.md)
+- Requirements: [project-requirements-for-joining-ncc.md](./docs/rules/project-requirements-for-joining-ncc.md)
+- Step: [project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md)
 
 ## Fund management
 
