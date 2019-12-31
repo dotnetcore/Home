@@ -1,8 +1,7 @@
 # 社区商业阻隔条例
 
-> 本规定由 [AlexLEWIS](https://github.com/alexinea) 草拟，于 2019 年交由 NCC PMC 试行。
->
-> 第一次修订：由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」修订，并由 NCC PMC 投票表决通过。
+> + 本规定由 [AlexLEWIS](https://github.com/alexinea) 草拟，于 2019 年交由 NCC PMC 试行。
+> + 第一次修订：由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」修订，并由 NCC PMC 投票表决通过。
 
 第一条　为保证 .NET Core Community （NCC 社区）的中立性、技术的纯粹性和非盈利性之本质，保障成员项目在用作商业用途与其他盈利性用途时的合法利益，制定本条例；
 

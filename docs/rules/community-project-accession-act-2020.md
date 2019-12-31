@@ -1,8 +1,8 @@
 # 关于申请加入 NCC 的项目的规定
 
-> 本规定由 [AlexLEWIS](https://github.com/alexinea) 草拟，于 2017 年交由 NCC PMC 试行。
-> 第一次修订：由 [AlexLEWIS](https://github.com/alexinea) 针对本规定的试行情况进行修订，并交由 NCC PMC 二段试行。
-> 第二次修订：由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」修订，并由 NCC PMC 投票表决通过。
+> + 本规定由 [AlexLEWIS](https://github.com/alexinea) 草拟，于 2017 年交由 NCC PMC 试行。
+> + 第一次修订：由 [AlexLEWIS](https://github.com/alexinea) 针对本规定的试行情况进行修订，并交由 NCC PMC 二段试行。
+> + 第二次修订：由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」修订，并由 NCC PMC 投票表决通过。
 
 第一条　为保证新加入 .NET Core Community （NCC 社区）的成员项目的质量，为明确 NCC 社区 PMC 团队对新项目执行项目审查时有规可据，制定本规定；
 

@@ -1,6 +1,6 @@
 # 社区政治阻隔条例
 
-> 本规定由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」草拟，并由 NCC PMC 投票表决通过。
+> + 本规定由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」草拟，并由 NCC PMC 投票表决通过。
 
 第一条　为保证 .NET Core Community （NCC 社区）的中立性和技术的纯粹性，规避因政治等非技术因素引发的风险影响社区整体，制定本条例；
 
