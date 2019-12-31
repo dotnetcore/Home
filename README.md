@@ -11,12 +11,13 @@
 
 # .NET Core Community Home
 
-.NET Core Community(NCC) is an open source community based on the .NET Core technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398) and LOU Yu in 2016. We hope that through our efforts, we can make the .NET Core ecosystem more exciting.
+.NET Core Community (means .net's central community, referred to as NCC) is an open source community based on the .NET technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398) and LOU Yu in 2016. We hope that through our efforts, we can make the .NET ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
-- QQ Group: 436035237
-- WeChat Group: _Consult in the QQ Group_
+- CORE QQ Group: 436035237
+- PURE QQ Group: by invitation
+- WeChat Group: _Consult in the CORE QQ Group_
 
 ## The History of NCC
 
@@ -73,8 +74,8 @@ Do you want to bea part of us? The next great NCC project, will be yours. The [n
 
 ## How to Join Us
 
-- Requirements: [project-requirements-for-joining-ncc.md](./docs/rules/project-requirements-for-joining-ncc.md)
-- Step: [project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md)
+- Requirements: [Community Project Accession Act, 2020](./docs/rules/community-project-accession-act-2020.md)
+- Step: [project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) *the regulations will be revised*
 
 ## Fund management
 
@@ -91,6 +92,11 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 
 **Thank you for your donation.**
+
+## Commercial and Political Exclusions
+
+- [Community Commercial Barriers Act, 2020](./docs/rules/community-commercial-barriers-act-2020.md)
+- [Community Political Barriers Act, 2020](./docs/rules/community-political-barriers-act-2020.md)
 
 ## Support and Sponsorship
 

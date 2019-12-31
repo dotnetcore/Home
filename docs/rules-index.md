@@ -2,9 +2,9 @@
 
 ## 项目
 
-- [关于申请加入 NCC 的项目的标准](rules/project-requirements-for-joining-ncc.md)
-- [关于推荐项目加入 NCC 的规范](rules/project-recommendation-for-joining-ncc.md)
-- [关于加入 NCC 的步骤](rules/project-steps-for-joining-ncc.md)
+- [关于申请加入 NCC 的项目的规定](rules/community-project-accession-act-2020.md)
+- [关于项目推荐人的规定](rules/community-project-recommendation-act-2020.md)
+- *[关于加入 NCC 的步骤](rules/project-steps-for-joining-ncc.md) （待修订）*
 
 ## 财资
 
@@ -13,7 +13,11 @@
 
 ## 商业
 
-- [关于 NCC 组织成员项目的营利与商业用途的阻隔规定](rules/rule-of-profit-and-commercial-use-barrier.md)
+- [社区商业阻隔条例](rules/community-commercial-barriers-act-2020.md)
+
+## 政治
+
+- [社区政治阻隔条例](rules/community-political-barriers-act-2020.md)
 
 ## 微信公众号
 

@@ -11,12 +11,13 @@
 
 # .NET Core Community Home
 
-.NET Core Community(NCC) 是一个基于并围绕着 .NET Core 技术栈展开组织和活动的开源社区，由 [Alex LEWIS](https://github.com/alexinea)、[LIU Haoyang](https://github.com/liuhaoyang)、[HE Zhenxi](https://github.com/utilcore)、 [XIE Yang](https://github.com/kiler398) 和 LOU Yu 创建于 2016 年年中。我们希望通过我们 NCC 社区的努力，能为 .NET Core 生态注入更多活力。
+.NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的开源社区，由[刘怡](https://github.com/alexinea)先生、[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生和娄宇先生于 2016 年年中共同发起。我们希望通过我们 NCC 社区的努力，能为 .NET 生态注入更多活力。
 
 - Github: https://github.com/dotnetcore
 - 官方网站: https://www.dotnetcore.xyz
-- QQ 群: 436035237
-- 微信群组: _二维码请在 QQ 群里询问_
+- CORE QQ 群: 436035237
+- PURE QQ 群：邀请制
+- 微信群组: _二维码请在 CORE QQ 群里询问_
 
 ## 我们的历史
 
@@ -73,8 +74,8 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 
 ## 如何加入我们
 
-- 项目要求：[project-requirements-for-joining-ncc.md](./docs/rules/project-requirements-for-joining-ncc.md)
-- 加入步骤：[project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md)
+- 项目要求：[关于申请加入 NCC 的项目的规定（Community Project Accession Act, 2020）](./docs/rules/community-project-accession-act-2020.md)
+- 加入步骤：[project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) *该规定将进行修订*
 
 ## 财资管理
 
@@ -90,6 +91,11 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 
 **万分感谢您的捐赠**
 
+## 商业与政治相关的排除性规定
+
+- [社区商业阻隔条例（Community Commercial Barriers Act, 2020）](./docs/rules/community-commercial-barriers-act-2020.md)
+- [社区政治阻隔条例（Community Political Barriers Act, 2020）](./docs/rules/community-political-barriers-act-2020.md)
+
 ## 支持与赞助
 
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
@@ -101,4 +107,4 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 - 在使用 [NCC 成员项目](#仓库与项目)遇到问题，请到相应项目下提交 issue；
 - 对 NCC 的建议和意见，可以[在此创建 issue](https://github.com/dotnetcore/Home/issues/new)，与我们取得联系；
 - 也可以通过 QQ 群（号码 436035237）反馈。
-  这个群是个 3000 人大群，感谢 XIE Yang 每年为这个群续费。
+  这个群是个 3000 人大群，感谢谢炀先生每年为这个群续费。

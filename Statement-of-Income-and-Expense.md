@@ -8,9 +8,9 @@
 
 **未登记在册的财资贡献：**
 
-- Alex LEWIS 每年为 NCC 域名资产的续费
-- YANG Xiaodong 每年为 NCC 域名资产的续费
-- XIE Yang 每年为 NCC 主群（3000 人大群）的续费
+- 刘怡每年为 NCC 域名资产的续费
+- 杨晓东每年为 NCC 域名资产的续费
+- 谢炀每年为 NCC 主群（3000 人大群）的续费
 - JetBrains 为 NCC 赞助了许可证
 
 ## 汇总

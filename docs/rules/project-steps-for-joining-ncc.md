@@ -16,8 +16,8 @@
 
 由 NCC 社区项目管理委员会的成员（及由 NCC 委派的人员）对项目进行审查，审查的内容包括：
 
-- （初步审查）项目是否符合[《关于申请加入 NCC 的项目的标准》](project-requirements-for-joining-ncc.md)正文所列的要求；
-- （初步审查）项目是否满足[《关于申请加入 NCC 的项目的标准》](project-requirements-for-joining-ncc.md) A01 款所指之「特殊情况」，若满足则交由 NCC 项目管理委员会加以讨论；
+- （初步审查）项目是否符合[《关于申请加入 NCC 的项目的标准》](old/project-requirements-for-joining-ncc.md)正文所列的要求；
+- （初步审查）项目是否满足[《关于申请加入 NCC 的项目的标准》](old/project-requirements-for-joining-ncc.md) A01 款所指之「特殊情况」，若满足则交由 NCC 项目管理委员会加以讨论；
 - （初步审查）项目的介绍、文档和 Wiki 的内容；
 - （技术审查）项目编码风格、项目结构的评估；
 - （技术审查）项目的技术水品、实用价值和潜力的评估；
