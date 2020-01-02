@@ -1,13 +1,10 @@
-<center>
+<p>
     <a href="https://www.dotnetcore.xyz" target="_blank" title="Home of .NET Core Community">
         <img width="100" src="revision-and-drafting-working-group-2019.png" />
     </a>
-</center>
+</p>
 
-<center>
-<h1 style="border:none;padding-bottom:0;">Revision and Drafting Working Group</h1>
-<h3 style="padding-top:0;">(2019)</h3>
-</center>
+# Revision and Drafting Working Group (2019)
 
 In order to allow the [NCC's rules and regulations](../rules-index.md) to better support the development of the Organization, [Alex LEWIS](https://alexinea.com) formed this group on December 1, 2019.
 
@@ -20,8 +17,6 @@ On December 31, 2019, the NCC PMC completed its vote and passed four new rules a
 - [NCC Community Commercial Barriers Act, 2020](../rules/community-commercial-barriers-act-2020.md)
 - [NCC Community Political Barriers Act, 2020](../rules/community-political-barriers-act-2020.md)
 
-The mission of this group was completed on December 31, 2019, and was dissolved on that date.
-
 Members of this group come from inside and outside the NCC. The following sorting is arranged according to the amount of contributions made by members of the working group.
 
 - [刘怡(AlexLEWIS)](https://github.com/alexinea)
@@ -32,3 +27,5 @@ Members of this group come from inside and outside the NCC. The following sortin
 - [LanX](https://github.com/NMSAzulX)
 - [杨晓东(Savorboard)](https://github.com/yang-xiaodong)
 - [谢炀(Kiler)](https://github.com/kiler398)
+
+The mission of this group was completed on December 31, 2019, and was dissolved on that date.
