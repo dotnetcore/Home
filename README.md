@@ -11,7 +11,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community (means .net's central community, referred to as NCC) is an open source community based on the .NET technology stack. It was created by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398) and LOU Yu in 2016. We hope that through our efforts, we can make the .NET ecosystem more exciting.
+.NET Core Community (means .net's central community, referred to as NCC) is an open source community based on the .NET technology stack. It was organized by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398) and LOU Yu co-initiated the construction in mid-2016, with the participation of colleagues in the community. We hope that through our efforts, we can make the .NET ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
@@ -29,7 +29,11 @@ After two years of challenge, NCC became an open source community organization w
 
 We have received support from many people, including the sponsorship of JetBrains.
 
-In 2019, we provided the NCC domain asset 'dotnet-china.com' to the [.NET China Community Joint Meeting (NCJM)](https://github.com/dotnet-china), we started a new domain '[dotnetcore.xyz](https://www.dotnetcore.xyz)'. We NCC are working with NCJM, to make .NET GREATER together.
+At the beginning of 2019, we tried to cooperate with various local .NET technology communities in China and jointly launched the [.NET China Community Joint Meeting (NCJM)](https://github.com/dotnet-china), and provided the community with the NCC domain name asset 'dotnet-china.com'. We enabled the new domain name '[dotnetcore.xyz](https://www.dotnetcore.xyz)' instead.
+
+At the end of 2019, we adopted and launched [MEMBER CODE OF CONDUCT](code-of-conduct.md). The four new rules and regulations revised and drafted by the community [Revision and Drafting Working Group (2019)](docs/history/revision-and-drafting-working-group-2019.md) passed the NCC PMC vote, and in Effective from January 1, 2020.
+
+In 2020, we look forward to the tremendous growth of our community.
 
 ## Members' Code of Conduct
 
@@ -75,7 +79,7 @@ Do you want to bea part of us? The next great NCC project, will be yours. The [n
 ## How to Join Us
 
 - Requirements: [Community Project Accession Act, 2020](./docs/rules/community-project-accession-act-2020.md)
-- Step: [project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) *the regulations will be revised*
+- Step: [project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) _the regulations will be revised_
 
 ## Fund management
 
@@ -103,6 +107,14 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
     <img src="./img/jetbrains.svg" title="JetBrains" />
 </a>
+
+## WeChat Official Public Account
+
+In 2019, I went out and created the NCC community WeChat public account "OpenNCC". Welcome to subscribe us.
+
+<img height=200 src="./img/OpenNCC.jpg" title="Scan and Subscribe us"/>
+
+The advertising income in the NCC WeChat public account will be used for the daily operation of the public account, community activities and payment of manuscripts.
 
 ## Feedback
 

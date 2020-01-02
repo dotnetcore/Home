@@ -2,7 +2,7 @@
 
 <br />
 
-> + 本规定由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」草拟，并由 NCC PMC 投票表决通过。
+> + 本规定由「[NCC 社区规范修订工作组（2019年）](../history/revision-and-drafting-working-group-2019.md)」草拟，并由 NCC PMC 投票表决通过。
 
 <br />
 

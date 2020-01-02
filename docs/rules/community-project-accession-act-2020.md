@@ -4,7 +4,7 @@
 
 > + 本规定由 [AlexLEWIS](https://github.com/alexinea) 草拟，于 2017 年交由 NCC PMC 试行。
 > + 第一次修订：由 [AlexLEWIS](https://github.com/alexinea) 针对本规定的试行情况进行修订，并交由 NCC PMC 二段试行。
-> + 第二次修订：由「[NCC 社区规范修订工作组（2019年）](../history/rdswg-member-list-2019.md)」修订，并由 NCC PMC 投票表决通过。
+> + 第二次修订：由「[NCC 社区规范修订工作组（2019年）](../history/revision-and-drafting-working-group-2019.md)」修订，并由 NCC PMC 投票表决通过。
 
 <br />
 

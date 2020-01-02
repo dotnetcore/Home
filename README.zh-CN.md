@@ -11,7 +11,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的开源社区，由[刘怡](https://github.com/alexinea)先生、[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生和娄宇先生于 2016 年年中共同发起。我们希望通过我们 NCC 社区的努力，能为 .NET 生态注入更多活力。
+.NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的开源社区，由[刘怡](https://github.com/alexinea)先生、[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生和娄宇先生于 2016 年年中共同发起，由广大社区同僚共同参与建设。我们希望通过我们 NCC 社区的努力，能为 .NET 生态注入更多活力。
 
 - Github: https://github.com/dotnetcore
 - 官方网站: https://www.dotnetcore.xyz
@@ -29,7 +29,11 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 
 在这期间我们得到了许多人和组织的帮助，包括 JetBrains 公司对我们的赞助。
 
-2019 年年初，我们向 [.NET 中文社区联席会议（.NET China Community Joint Meeting, NCJM）](https://github.com/dotnet-china)提供了 NCC 域名资产「dotnet-china.com」，并启用全新域名「[dotnetcore.xyz](https://www.dotnetcore.xyz)」。我们 NCC 将同联席会议（NCJM）一道，让 .NET 再现魅力。
+2019 年年初，我们尝试与中国地区的各地方 .NET 技术社区合作，联合发起了 [.NET 中文社区联席会议（.NET China Community Joint Meeting, NCJM）](https://github.com/dotnet-china)，并为该社区提供了 NCC 域名资产「dotnet-china.com」，我们则启用了全新域名「[dotnetcore.xyz](https://www.dotnetcore.xyz)」。
+
+2019 年年末，我们通过并正式启用[《组织成员行为准则》](code-of-conduct.zh-CN.md)，由[社区修订与起草工作组（2019）](docs/history/revision-and-drafting-working-group-2019.md)负责修订和起草的四部新规定通过 NCC PMC 的投票，并于 2020 年 1 月 1 日起生效。
+
+2020 年，我们期待社区得到更大的发展。
 
 ## 我们的行为准则
 
@@ -75,13 +79,13 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 ## 如何加入我们
 
 - 项目要求：[关于申请加入 NCC 的项目的规定（Community Project Accession Act, 2020）](./docs/rules/community-project-accession-act-2020.md)
-- 加入步骤：[project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) *该规定将进行修订*
+- 加入步骤：[project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) _该规定将进行修订_
 
 ## 财资管理
 
 ### 捐赠
 
-<img height=200 src="./img/ncc-donation-qrcode.png" title="Scan and donate"/>
+<img height=200 src="./img/ncc-donation-qrcode.png" title="扫码，并赞助我们"/>
 
 When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 
@@ -101,6 +105,14 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
     <img src="./img/jetbrains.svg" title="JetBrains" />
 </a>
+
+## 微信公众号
+
+在 2019 年，我出门创建了 NCC 社区微信公众号「NCC 开源社区」，欢迎诸位订阅。
+
+<img height=200 src="./img/OpenNCC.jpg" title="扫码并关注"/>
+
+NCC 微信公众号内的广告所得将用于公众号的日常运营、社区活动和支付稿酬。
 
 ## 反馈
 
