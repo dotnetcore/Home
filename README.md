@@ -74,7 +74,9 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 #### Our External Sandbox Project
 
 - **[KoobooJson](https://github.com/kooboo/Json)**, smaller and faster C# JSON serialization tool (construction based on expression tree)
-- **[ZKWeb](https://github.com/zkweb-framework/ZKWeb)**, an external project of NCC. ZKWeb is a flexible web framework for .NET Framework and .NET Core with [plugin system](http://github.com/zkweb-framework/ZKWeb.Plugins) and template system.
+- **[ASP.NET Core Documentation Translation Plan](https://github.com/dotnetcore/aspnetcore-doc-cn)**, The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET China Foundation
+- **[NCC Collection extensions](https://github.com/dotnetcore/Collections)**, Utilities and extensions for Collections includes Collections.Paginable and so on...
+- **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**, When using the Roslyn library for dynamic compilation, you can introduce the library to provide a dynamic compilation environment.
 
 Do you want to bea part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 

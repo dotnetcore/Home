@@ -71,10 +71,12 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**，基于 HttpClient 的开源项目，只需通过定义 C# 接口并修改一些细节便可异步调用远程 http 接口。
 - **[WTM](https://github.com/dotnetcore/WTM)**，针对中小规模后台管理系统的开发利器，基于 .NET Core，实现零编码创建项目、零编码生成业务模块。框架严格遵循 MVVM 的开发模式，经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。
 
-#### 外部沙盒项目
+#### 外部沙盒项目与其他项目
 
 - **[KoobooJson](https://github.com/kooboo/Json)**，更小更快的 C# JSON 序列化工具（基于表达式树构建）。
-- **[ZKWeb](https://github.com/zkweb-framework/ZKWeb)**，NCC 外部项目。ZKWeb 是一个灵活的适用于 .NET 和 .NET Core 的带有[插件系统](http://github.com/zkweb-framework/ZKWeb.Plugins)和模板系统框架。
+- **[ASP.NET Core 文档翻译计划](https://github.com/dotnetcore/aspnetcore-doc-cn)**，由 .NET China Foundation（已更名为 NCC）发起的微软 ASP.NET Core 文档翻译计划。
+- **[NCC Collection extensions](https://github.com/dotnetcore/Collections)**，包括分页组件在内的集合扩展。
+- **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**，使用 Roslyn 库进行动态编译时，可以引入该库提供动态编译的环境。
 
 想加入我们么？下一个 NCC 成员项目非你莫属！[下一节](#如何加入我们)将介绍如何加入我们。
 
