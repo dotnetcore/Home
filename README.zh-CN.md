@@ -82,7 +82,7 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 
 ## 如何加入我们
 
-- 项目要求：[关于申请加入 NCC 的项目的规定（Community Project Accession Act, 2020）](./docs/rules/community-project-accession-act-2020.md)
+- 项目要求：[关于申请加入 NCC 的项目的规定（Community Project Accession Reg, 2020）](./docs/rules/community-project-accession-reg-2020.md)
 - 加入步骤：[project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) _该规定将进行修订_
 
 ## 财资管理
@@ -101,8 +101,8 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 
 ## 商业与政治相关的排除性规定
 
-- [社区商业阻隔条例（Community Commercial Barriers Act, 2020）](./docs/rules/community-commercial-barriers-act-2020.md)
-- [社区政治阻隔条例（Community Political Barriers Act, 2020）](./docs/rules/community-political-barriers-act-2020.md)
+- [社区商业阻隔条例（Community Commercial Barriers Reg, 2020）](./docs/rules/community-commercial-barriers-reg-2020.md)
+- [社区政治阻隔条例（Community Political Barriers Reg, 2020）](./docs/rules/community-political-barriers-reg-2020.md)
 
 ## 支持与赞助
 
@@ -124,3 +124,8 @@ NCC 微信公众号内的广告所得将用于公众号的日常运营、社区�
 - 对 NCC 的建议和意见，可以[在此创建 issue](https://github.com/dotnetcore/Home/issues/new)，与我们取得联系；
 - 也可以通过 QQ 群（号码 436035237）反馈。
   这个群是个 3000 人大群，感谢谢炀先生每年为这个群续费。
+- 以下方式都是可以接受的：
+  - 在我们微信公众号的后台留言：OpenNCC；
+  - 关注我们的推特：[@ncc_community](https://twitter.com/ncc_community)
+  - 关注我们的电报频道：[@ncc_radio](https://t.me/nccradio)
+- 最后，你可以通过邮件与我们取得联系：`dotnet-community#outlook.com` （将 `#` 改为 `@`）

@@ -85,7 +85,7 @@
 
 **第十四条**　不建议项目推荐人向 NCC 社区引荐外部沙盒项目（External Sandbox Projects）；
 
-**第十五条**　本规定生效之刻起，原[《关于推荐项目加入 NCC 组织的规范》](old/community-project-recommendation-act-2019.md)废止；
+**第十五条**　本规定生效之刻起，原[《关于推荐项目加入 NCC 组织的规范》](old/community-project-recommendation-reg-2019.md)废止；
 
 **第十六条**　本规定的最终解释权归属 NCC 社区项目管理委员会；
 

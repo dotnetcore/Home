@@ -142,7 +142,7 @@
 
 **第十条**　在项目加入 NCC 社区后，应在其名称加前缀「NCC」用于一般称谓；
 
-**第十一条**　本规定生效之刻起，原[《关于申请加入 NCC 的项目的标准》](old/community-project-accession-act-2019.md)废止；
+**第十一条**　本规定生效之刻起，原[《关于申请加入 NCC 的项目的标准》](old/community-project-accession-reg-2019.md)废止；
 
 **第十二条**　本规定的最终解释权归属 NCC 社区项目管理委员会；
 

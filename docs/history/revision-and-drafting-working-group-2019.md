@@ -8,14 +8,14 @@
 
 In order to allow the [NCC's rules and regulations](../rules-index.md) to better support the development of the Organization, [Alex LEWIS](https://alexinea.com) formed this group on December 1, 2019.
 
-The mission of this working group is to cooperate with the members of the NCC Convenor Meeting to revise the NCC rules and regulations, review the amendments and make comments and suggestions, discuss and formulate [NCC's community political barrier regulations](../rules/community-political-barriers-act-2020.md), and vote on these newly revised or formulated regulations . The rules and regulations adopted by the vote will be submitted to the NCC PMC for collective review and voting.
+The mission of this working group is to cooperate with the members of the NCC Convenor Meeting to revise the NCC rules and regulations, review the amendments and make comments and suggestions, discuss and formulate [NCC's community political barrier regulations](../rules/community-political-barriers-reg-2020.md), and vote on these newly revised or formulated regulations . The rules and regulations adopted by the vote will be submitted to the NCC PMC for collective review and voting.
 
 On December 31, 2019, the NCC PMC completed its vote and passed four new rules and regulations:
 
-- [NCC Community Project Accession Act, 2020](../rules/community-project-accession-act-2020.md)
-- [NCC Community Project Recommendation Act, 2020](../rules/community-project-recommendation-act-2020.md)
-- [NCC Community Commercial Barriers Act, 2020](../rules/community-commercial-barriers-act-2020.md)
-- [NCC Community Political Barriers Act, 2020](../rules/community-political-barriers-act-2020.md)
+- [NCC Community Project Accession Reg, 2020](../rules/community-project-accession-reg-2020.md)
+- [NCC Community Project Recommendation Reg, 2020](../rules/community-project-recommendation-reg-2020.md)
+- [NCC Community Commercial Barriers Reg, 2020](../rules/community-commercial-barriers-reg-2020.md)
+- [NCC Community Political Barriers Reg, 2020](../rules/community-political-barriers-reg-2020.md)
 
 Members of this group come from inside and outside the NCC. The following sorting is arranged according to the amount of contributions made by members of the working group.
 

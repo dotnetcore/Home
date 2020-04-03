@@ -82,7 +82,7 @@ Do you want to bea part of us? The next great NCC project, will be yours. The [n
 
 ## How to Join Us
 
-- Requirements: [Community Project Accession Act, 2020](./docs/rules/community-project-accession-act-2020.md)
+- Requirements: [Community Project Accession Reg, 2020](./docs/rules/community-project-accession-reg-2020.md)
 - Step: [project-steps-for-joining-ncc.md](./docs/rules/project-steps-for-joining-ncc.md) _the regulations will be revised_
 
 ## Fund management
@@ -103,8 +103,8 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 
 ## Commercial and Political Exclusions
 
-- [Community Commercial Barriers Act, 2020](./docs/rules/community-commercial-barriers-act-2020.md)
-- [Community Political Barriers Act, 2020](./docs/rules/community-political-barriers-act-2020.md)
+- [Community Commercial Barriers Reg, 2020](./docs/rules/community-commercial-barriers-reg-2020.md)
+- [Community Political Barriers Reg, 2020](./docs/rules/community-political-barriers-reg-2020.md)
 
 ## Support and Sponsorship
 
@@ -126,3 +126,8 @@ The advertising income in the NCC WeChat public account will be used for the dai
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
 - You can alse join our QQGroup (numbered 436035237).
   That QQGroup is a large group of 3K people, much thanks to XIE Yang for paying the QQGroup every year.
+- The following methods are acceptable:
+  - Leave a message in the background of our WeChat account: OpenNCC;
+  - Follow us on Twitter: [@ncc_community](https://twitter.com/ncc_community)
+  - Follow our Telegram Channel: [@ncc_radio](https://t.me/nccradio)
+- Finally, you can contact us via email: `dotnet-community#outlook.com` (change `#` to `@`).
