@@ -50,6 +50,7 @@ Projects in the _NCC Top-Level Projects phase_ can be used in production environ
 - **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)**, an AOP-based cross platform framework for .NET Standard.
 - **[CAP](https://github.com/dotnetcore/CAP)**, a distributed transaction solution in microservice based on eventually consistency, also an eventbus with Outbox pattern.
 - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)**, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
+- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**, a cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
 - **[NPOI](https://github.com/dotnetcore/NPOI)**, a .net library for reading and writing MsOffice binary and OOXML file formats.
 
 ### Our Sandbox Projects
@@ -59,7 +60,6 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
-- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**, a cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**, is the ORM in .NET Core, .NET Framework and Xamarin. It supports MySQL, PostgreSQL, SqlServer, Oracle, Sqlite, Odbc, 达梦, And MsAccess.
 - **[HttpReports](https://github.com/dotnetcore/HttpReports)**, a lightweight APM system based on .NET Core, can be used to quickly build an integrated site of statistics, analysis, charts, monitoring, and distributed tracking in the .NET Core environment. HttpReports applies to ASP.NET Core MVC/WebAPI, is simple to get started and suitable for use in microservice architecture.
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**, a common import and export library for Excel, Word, PDF and HTML.

@@ -50,6 +50,7 @@ _顶级项目阶段 NCC Top-Level Projects phase_ 的项目可用于生产环境
 - **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)**，.NET Standard 跨平台 AOP 框架。
 - **[CAP](https://github.com/dotnetcore/CAP)**，基于最终一致性的微服务分布式事务解决方案，具有 Outbox 模式的事件总线。
 - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)**，类似 WebMagic 与 Scrapy 的 .NET Standard 轻量级、高效且高速的高级爬虫库。
+- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**，跨平台构建与部署自动化系统，基于 C# 代码构建项目和执行部署脚本。（[FlubuCore 的示例](https://github.com/dotnetcore/FlubuCore.Examples)）
 - **[NPOI](https://github.com/dotnetcore/NPOI)**，用于读写 Microsoft Office 二进制文件和 OOXML 文件格式的 .NET 类库。
 
 ### 沙盒项目
@@ -59,7 +60,6 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**，基于 .NET Standard 2.0 开发的第三方支付宝服务端 SDK，提供比官方更可靠的设计，但仍与官方 apis 保持一致。
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**，开源缓存库，包含基本用法和缓存的高级用法，可助我们更轻松地处理缓存。
-- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**，跨平台构建与部署自动化系统，基于 C# 代码构建项目和执行部署脚本。（[FlubuCore 的示例](https://github.com/dotnetcore/FlubuCore.Examples)）
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**，一款功能强大的 ORM 组件，支持 .NET Core、.NET Framework 和 Xamarin。目前 FreeSql 支持以下数据库：MySQL、PostgreSQL、SqlServer、Oracle、Sqlite、Odbc、微软 Access 以及国产数据库达梦。
 - **[HttpReports](https://github.com/dotnetcore/HttpReports)**, 是一款基于 .NET Core 的轻量级 APM 系统，可在 .NET Core 环境下快速搭建统计、分析、图标、监控和分布式跟踪一体化的站点，适用于 ASP.NET Core MVC/WebAPI。HttpReports 上手简单，适合在微服务中使用。
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
