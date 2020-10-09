@@ -57,7 +57,7 @@ Projects in the _NCC Top-Level Projects phase_ can be used in production environ
 
 Projects in the _NCC Sandbox Projects phase_ are still in development and they need more time and practice to test their designs.
 
-- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)**, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
+- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(Archived)*, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official apis.
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**, is the ORM in .NET Core, .NET Framework and Xamarin. It supports MySQL, PostgreSQL, SqlServer, Oracle, Sqlite, Odbc, 达梦, And MsAccess.
@@ -121,6 +121,8 @@ In 2019, I went out and created the NCC community WeChat public account "OpenNCC
 The advertising income in the NCC WeChat public account will be used for the daily operation of the public account, community activities and payment of manuscripts.
 
 ## Feedback
+
+<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge.png" width="600" height="720" align="right" /></a>
 
 - If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
