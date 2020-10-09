@@ -11,7 +11,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的开源社区，由[刘怡](https://github.com/alexinea)先生、[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生和娄宇先生于 2016 年年中共同发起，由广大社区同僚共同参与建设。我们希望通过我们 NCC 社区的努力，能为 .NET 生态注入更多活力。
+.NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的非官方、非盈利性的民间开源社区，她诞生于 2016 年年中，由[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生、娄宇先生和[刘怡](https://github.com/alexinea)先生联合发起、近百名 .NET 开发者共同成立。我们希望通过我们 NCC 社区的努力，与各个开源社区一道为 .NET 生态注入更多活力。
 
 - Github: https://github.com/dotnetcore
 - 官方网站: https://www.dotnetcore.xyz
@@ -25,15 +25,17 @@
 
 NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方文档。我们得到了许多人的帮助和鼓励（[2016 年翻译计划贡献者名单](./docs/history/people-who-translated-in-2016.md)），并在 Twitter 上获得了官方的点赞。我们的[翻译成果](https://github.com/dotnetcore/aspnetcore-doc-cn)也为第一批接触 ASP.NET Core 的中文开发者们提供了巨大的便利。
 
-经历两年的挑战和考验，NCC 逐渐演变为一个开源社区组织，拥有了十多个成员项目和团队。
+经历两年的挑战和考验，NCC 几经易名，逐渐演变为一个开源社区组织，拥有了十多个成员项目和团队。
 
-在这期间我们得到了许多人和组织的帮助，包括 JetBrains 公司对我们的赞助。
+在这期间我们得到了许多人和组织的帮助，包括 JetBrains 公司对我们的支持。
 
-2019 年年初，我们尝试与中国地区的各地方 .NET 技术社区合作，联合发起了 [.NET 中文社区联席会议（.NET China Community Joint Meeting, NCJM）](https://github.com/dotnet-china)，并为该社区提供了 NCC 域名资产「dotnet-china.com」，我们则启用了全新域名「[dotnetcore.xyz](https://www.dotnetcore.xyz)」。
+2019 年年初，我们尝试与中国各地区 .NET 技术社区合作，联合发起了 [.NET 中文社区联席会议（.NET China Community Joint Meeting, NCJM）](https://github.com/dotnet-china)，并为该社区提供了 NCC 域名资产「dotnet-china.com」，我们则启用了全新域名「[dotnetcore.xyz](https://www.dotnetcore.xyz)」。
 
 2019 年年末，我们通过并正式启用[《组织成员行为准则》](code-of-conduct.zh-CN.md)，由[社区修订与起草工作组（2019）](docs/history/revision-and-drafting-working-group-2019.md)负责修订和起草的四部新规定通过 NCC PMC 的投票，并于 2020 年 1 月 1 日起生效。
 
-2020 年，我们期待社区得到更大的发展。
+2020 年，这个特殊的年份，我们更新了社区规则，并经受住了多重巨大考验，成员项目取得长足发展，Surging 为了更广阔的前景完成了 NCC 的孵化，并成立了独立社区。FlubuCore 成为社区第一个 .NET 基金会成员；晓晨的 Alipay SDK 也完成了全部历史使命，进入归档状态。
+
+2021 年，我们期待社区得到更大的发展。
 
 ## 我们的行为准则
 
@@ -120,7 +122,7 @@ NCC 微信公众号内的广告所得将用于公众号的日常运营、社区�
 
 ## 反馈
 
-<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge_dark.png" width="300" height="300" align="right" /></a>
+<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge.png" width="300" height="360" align="right" /></a>
 
 - 在使用 [NCC 成员项目](#仓库与项目)遇到问题，请到相应项目下提交 issue；
 - 对 NCC 的建议和意见，可以[在此创建 issue](https://github.com/dotnetcore/Home/issues/new)，与我们取得联系；

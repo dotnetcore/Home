@@ -11,7 +11,7 @@
 
 # .NET Core Community Home
 
-.NET Core Community (means .net's central community, referred to as NCC) is an open source community based on the .NET technology stack. It was organized by [Alex LEWIS](https://github.com/alexinea), [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398) and LOU Yu co-initiated the construction in mid-2016, with the participation of colleagues in the community. We hope that through our efforts, we can make the .NET ecosystem more exciting.
+.NET Core Community (means .net's central community, referred to as NCC) is a unofficial, non-profit open source community based on the .NET technology stack. It was organized by [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398), LOU Yu and [Alex LEWIS](https://github.com/alexinea) co-initiated the construction in mid-2016, with the participation of colleagues in the community. We hope that through our efforts, we can make the .NET ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
@@ -25,7 +25,7 @@ NCC was founded in mid-2016, the original name is ".NET Core China Studying Grou
 
 The original goal of NCC was to translate the documentation of Microsoft ASP.NET Core. We have received a lot of help and encouragement from many people ([List of contributors for 2016 translation project](./docs/history/people-who-translated-in-2016.md)). And [the works of our translation](https://github.com/dotnetcore/aspnetcore-doc-cn) also provided great convenient for the first Chinese developers who learned ASP.NET Core.
 
-After two years of challenge, NCC became an open source community organization with more than one dozen projects and multiple sub-teams.
+After two years of challenge, after several name adjustments, NCC became an open source community organization with more than one dozen projects and multiple sub-teams.
 
 We have received support from many people, including the sponsorship of JetBrains.
 
@@ -33,7 +33,9 @@ At the beginning of 2019, we tried to cooperate with various local .NET technolo
 
 At the end of 2019, we adopted and launched [MEMBER CODE OF CONDUCT](code-of-conduct.md). The four new rules and regulations revised and drafted by the community [Revision and Drafting Working Group (2019)](docs/history/revision-and-drafting-working-group-2019.md) passed the NCC PMC vote, and in Effective from January 1, 2020.
 
-In 2020, we look forward to the tremendous growth of our community.
+In 2020, a special year, we have updated the community rules and withstood multiple huge challenges. Member projects have made great progress. Surging has completed the incubation of NCC for a broader prospect and established an independent community. FlubuCore became the first .NET Foundation member project in our community. NCC Alipay SDK completed its historical mission and was archived.
+
+In 2021, we look forward to the tremendous growth of our community.
 
 ## Members' Code of Conduct
 
@@ -122,7 +124,7 @@ The advertising income in the NCC WeChat public account will be used for the dai
 
 ## Feedback
 
-<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge_dark.png" width="300" height="300" align="right" /></a>
+<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge.png" width="300" height="360" align="right" /></a>
 
 - If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
