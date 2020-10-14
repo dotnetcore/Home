@@ -103,7 +103,7 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 
 当你捐赠时，**请标注「NCC」，并留下你的名字**，万分感激。
 
-资金将由 LIU Haoyang 托管，并由 Alex Lewis 登记在册。
+资金将由 LIU Haoyang 托管，并由 Alex Lewis 登记造册。
 
 **万分感谢您的捐赠**
 

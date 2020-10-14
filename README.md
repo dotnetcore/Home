@@ -76,11 +76,11 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 - **[WebApiClient](https://github.com/dotnetcore/WebApClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
 
-### Translation project
+### Our Translation Projects
 
 - **[ASP.NET Core Documentation Translation Plan](https://github.com/dotnetcore/aspnetcore-doc-cn)**, The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET China Foundation
 
-### Project to complete the incubation work
+### Projects that Complete the Incubation Work
 
 - **BotSharp**, The Open Source AI Chatbot Platform Builder.
 - **Surging**, a distributed micro-service engine.
