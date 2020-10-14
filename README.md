@@ -82,9 +82,9 @@ Projects in the _NCC Sandbox Projects phase_ are still in development and they n
 
 ### Project to complete the incubation work
 
-- **BotSharp**，The Open Source AI Chatbot Platform Builder.
-- **Surging**, a distributed micro-service engine that provides high-performance RPC remote service calls.
-- **ZKWeb**, an external project of NCC. ZKWeb is a flexible web framework for .NET Framework and .NET Core with plugin system and template system.
+- **BotSharp**, The Open Source AI Chatbot Platform Builder.
+- **Surging**, a distributed micro-service engine.
+- **ZKWeb**, a flexible web framework with plugin system and template system.
 
 Do you want to be a part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 
