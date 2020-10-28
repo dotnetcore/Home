@@ -118,6 +118,10 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
     <img src="./img/jetbrains.svg" title="JetBrains" />
+</a> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.myget.org/" target="_blank">
+    <img src="./img/myget.svg" title="MyGet" height=130 />
 </a>
 
 ## WeChat Official Public Account

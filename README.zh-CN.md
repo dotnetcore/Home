@@ -117,6 +117,10 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
     <img src="./img/jetbrains.svg" title="JetBrains" />
 </a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.myget.org/" target="_blank">
+    <img src="./img/myget.svg" title="MyGet" height=130 />
+</a>
 
 ## 微信公众号
 
