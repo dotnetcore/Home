@@ -117,7 +117,7 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 ## Support and Sponsorship
 
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
-<img src="./img/jetbrains.png" title="JetBrains" />
+<img src="./img/jetbrains.png" title="JetBrains" width=130 />
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://www.myget.org/" target="_blank">
