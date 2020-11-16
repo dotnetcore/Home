@@ -112,7 +112,7 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 - [社区商业阻隔条例（Community Commercial Barriers Reg, 2020）](./docs/rules/community-commercial-barriers-reg-2020.md)
 - [社区政治阻隔条例（Community Political Barriers Reg, 2020）](./docs/rules/community-political-barriers-reg-2020.md)
 
-## 支持与赞助
+## 社区合作伙伴和赞助商
 
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
 <img src="./img/jetbrains.png" title="JetBrains" width=130 />

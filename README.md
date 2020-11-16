@@ -114,7 +114,7 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 - [Community Commercial Barriers Reg, 2020](./docs/rules/community-commercial-barriers-reg-2020.md)
 - [Community Political Barriers Reg, 2020](./docs/rules/community-political-barriers-reg-2020.md)
 
-## Support and Sponsorship
+## Community Partners and Sponsors
 
 <a href="https://www.jetbrains.com/?from=.NETCoreCommunity(NCC)" target="_blank">
 <img src="./img/jetbrains.png" title="JetBrains" width=130 />
