@@ -121,6 +121,10 @@ When you donate, **PLEASE TELL US YOUR NAME AND TO MARK "NCC"**, thank you.
 <a href="https://www.myget.org/" target="_blank">
 <img src="./img/myget.png" title="MyGet" width=130 />
 </a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.oreilly.com/pub/cpc/323206" target="_blank">
+<img src="./img/oreilly.png" title="O'REILLY" width=130 />
+</a>
 
 ## 微信公众号
 

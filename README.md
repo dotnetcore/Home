@@ -123,6 +123,10 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 <a href="https://www.myget.org/" target="_blank">
 <img src="./img/myget.png" title="MyGet" width=130 />
 </a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.oreilly.com/pub/cpc/323206" target="_blank">
+<img src="./img/oreilly.png" title="O'REILLY" width=130 />
+</a>
 
 ## WeChat Official Public Account
 
