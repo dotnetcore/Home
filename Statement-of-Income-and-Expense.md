@@ -10,7 +10,8 @@
 
 - 刘怡每年为 NCC 域名资产的续费与微信公众号运营支出
 - 谢炀每年为 NCC 主群（3000 人大群）的续费
-- JetBrains 为 NCC 赞助了许可证
+- JetBrains 为社区提供的 JetBrains OpenSource License
+- MyGet 为社区提供的 Time-Unlimited OpenSource Plan Subscription
 
 ## 汇总
 
@@ -101,7 +102,7 @@
 | 用于域名支付       | 2020-02-09 | 106.11  | 杨晓东      | `dotnetcore.xyz` 域名续费                                |
 | 支持 .NET 公号联盟 | 2019-08-29 | 50.00  | AzulX      | 以 NCC 名义定向支持 .NET 微信公众号联盟                                  |
 | NCC 成都活动       | 2019-05-19 | 48.00  | 杨晓东     | 活动现场物料（水）                                                       |
-| NCC 新年赠品       | 2019-01-01 | 817.00 | 刘怡 | 用于感谢 NCC 各项目负责人、NCC 大群群主在过去一段时间内为 NCC 做出的贡献 |
+| NCC 新年赠品       | 2019-01-01 | 817.00 | 刘怡 | 用于感谢 NCC 各项目负责人、NCC 大群群主<br />在过去一段时间内为 NCC 做出的贡献 |
 
 ## 捐赠二维码
 

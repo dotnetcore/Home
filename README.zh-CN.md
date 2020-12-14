@@ -60,7 +60,6 @@ _顶级项目阶段 NCC Top-Level Projects phase_ 的项目可用于生产环境
 _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶段，且尚需时间和项目来检验其设计。
 
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(已存档)*，基于 .NET Standard 2.0 开发的第三方支付宝服务端 SDK，提供比官方更可靠的设计，但仍与官方 apis 保持一致。
-- **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, 基于 Bootstrap 的 Blazor 企业级 UI 组件库。
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**，开源缓存库，包含基本用法和缓存的高级用法，可助我们更轻松地处理缓存。
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**，一款功能强大的 ORM 组件，支持 .NET Core、.NET Framework 和 Xamarin。目前 FreeSql 支持以下数据库：MySQL、PostgreSQL、SqlServer、Oracle、Sqlite、Firebird、Odbc、微软 Access 以及国产数据库达梦、人大金仓、神通。
