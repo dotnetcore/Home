@@ -12,3 +12,5 @@ The following members are using JetBrains licenses:
 | LOU Yu        | NCC-CC member                      |
 | Alex LEWIS    | NCC-CC member & NCC Collections    |
 | Zlzforever    | NCC DotnetSpider                   |
+| Argo Zhang    | NCC BootstrapBlazor                |
+| Vito Wu       | NCC WTM                            |
