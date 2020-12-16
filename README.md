@@ -146,7 +146,7 @@ The advertising income in the NCC WeChat public account will be used for the dai
 
 ## Feedback
 
-<a href="https://dotnetcore.xyz"><img src="./img/ncc_badge.png" width="300" height="360" align="right" /></a>
+<a href="https://dotnetcore.xyz"><img src="./img/ncc-badge-blue.png" width="300" height="360" align="right" /></a>
 
 - If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
