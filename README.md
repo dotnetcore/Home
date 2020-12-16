@@ -1,7 +1,8 @@
 <p>
     <a href="https://www.dotnetcore.xyz" target="_blank" title="Home of .NET Core Community">
-        <img width="100" src="./img/dotnetcore.png" />
-    </a>
+        <img width="100" src="./img/ncc-logo.png" />
+    </a>&nbsp;
+    <img height="100" src="./img/ncc-name.png" />
 </p>
 
 <p align="center">
@@ -145,7 +146,7 @@ The advertising income in the NCC WeChat public account will be used for the dai
 
 ## Feedback
 
-<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge.png" width="300" height="360" align="right" /></a>
+<a href="https://dotnetcore.xyz"><img src="./img/ncc_badge.png" width="300" height="360" align="right" /></a>
 
 - If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.

@@ -1,7 +1,8 @@
 <p>
     <a href="https://www.dotnetcore.xyz" target="_blank" title="Home of .NET Core Community">
-        <img width="100" src="./img/dotnetcore.png" />
-    </a>
+        <img width="100" src="./img/ncc-logo.png" />
+    </a>&nbsp;
+    <img height="100" src="./img/ncc-name.png" />
 </p>
 
 <p align="center">
@@ -143,7 +144,7 @@ NCC 微信公众号内的广告所得将用于公众号的日常运营、社区�
 
 ## 反馈
 
-<a href="https://dotnetcore.xyz"><img src="https://github.com/dotnetcore/Home/blob/master/img/ncc_badge.png" width="300" height="360" align="right" /></a>
+<a href="https://dotnetcore.xyz"><img src="./img/ncc_badge.png" width="300" height="360" align="right" /></a>
 
 - 在使用 [NCC 成员项目](#仓库与项目)遇到问题，请到相应项目下提交 issue；
 - 对 NCC 的建议和意见，可以[在此创建 issue](https://github.com/dotnetcore/Home/issues/new)，与我们取得联系；
