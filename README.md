@@ -135,6 +135,12 @@ All donations will be managed by LIU Haoyang and booked by Alex Lewis.
 <a href="https://www.oreilly.com/pub/cpc/323206" target="_blank">
 <img src="./img/oreilly.png" title="O'REILLY" width=130 />
 </a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.material-theme.com/" target="_blank">
+<img src="./img/material-theme.png" title="Material Theme UI Plugin for JetBrains" width=130 />
+</a>
+
+
 
 ## WeChat Official Public Account
 
