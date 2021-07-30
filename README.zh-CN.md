@@ -63,6 +63,7 @@ _顶级项目阶段 NCC Top-Level Projects phase_ 的项目可用于生产环境
 _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶段，且尚需时间和项目来检验其设计。
 
 - **[AgileConfig](https://github.com/dotnetcore/AgileConfig)**, 一个基于.NET Core 的轻量级配置中心。
+  - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - AgileConfig 客户端程序，基于 .NET Standard 2.0 开发，故能运行于 nfx 和 core 应用中。
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(已存档)*，基于 .NET Standard 2.0 开发的第三方支付宝服务端 SDK，提供比官方更可靠的设计，但仍与官方 APIs 保持一致。
 - **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, 基于 Bootstrap 的 Blazor 企业级 UI 组件库。
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
@@ -73,7 +74,8 @@ _沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶�
 - **[KoobooJson](https://github.com/kooboo/Json)** *(外部项目)*，更小更快的 C# JSON 序列化工具（基于表达式树构建）。
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
 - **[Natasha](https://github.com/dotnetcore/Natasha)**，简化 IL 操作，优化 IL 编程流程，并编写具有高性能的动态缓存。
-- **[NCC Collection extensions](https://github.com/dotnetcore/Collections)**，包括分页组件在内的集合扩展。
+  - [Natasha Docs](https://github.com/dotnetcore/Natasha.Docs)，Natasha 的文档项目。
+- **[NCC Collection Extensions](https://github.com/dotnetcore/Collections)**，包括分页组件在内的集合扩展。
 - **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**，使用 Roslyn 库进行动态编译时，可以引入该库提供动态编译的环境。
 - **[OSharp](https://github.com/dotnetcore/OSharp)**，全称 OSharp Framework with .NetStandard2.x，是一个基于 .NetStandard2.x 开发的一个 .NetCore 快速开发框架。这个框架使用最新稳定版的 .NetCore SDK（当前是.NET Core 3.1），对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、权限授权等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。
 - **[SmartCode](https://github.com/dotnetcore/SmartCode)**，优秀的开源代码生成器（不仅仅是生成代码），它基于执行流程，支持 ETL 模式，高度灵活和可扩展，还支持自定义模板和多种模板样式，以及多种数据库。
