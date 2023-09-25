@@ -49,6 +49,7 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 ### Data
 
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
+- **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(Top-Level)*, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**, is the ORM in .NET Core, .NET Framework and Xamarin. It supports [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org/), [SqlServer](https://www.microsoft.com/en-us/sql-server/), [Oracle](https://www.oracle.com/database/), [Sqlite](https://www.sqlite.org), [Firebird](https://firebirdsql.org/), [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity), [达梦](http://www.dameng.com/), [瀚高](http://www.highgo.com/content.php?catid=40), [人大金仓](https://www.kingbase.com.cn/), [神通](http://www.shentongdata.com/), [HUAWEI GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb) and [Microsoft Access](https://www.microsoft.com/en-us/microsoft-365/access).
 - **[Magicodes Exporter&Importer](https://github.com/dotnetcore/Magicodes.IE)**, a common import and export library for Excel, Word, PDF and HTML.
@@ -60,7 +61,6 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 ### Application Library
 
 - **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)** *(Top-Level)*, an AOP-based cross platform framework for .NET Standard.
-- **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(Top-Level)*, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 - **[Natasha](https://github.com/dotnetcore/Natasha)**, simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
   - [Natasha Docs](https://github.com/dotnetcore/Natasha.Docs), the document for Natasha.
 - **[NCC Collection Extensions](https://github.com/dotnetcore/Collections)**, Utilities and extensions for Collections includes Collections.Paginable and so on...
