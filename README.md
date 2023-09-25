@@ -46,58 +46,68 @@ In order to build an open, innovative, inclusive and welcoming community, we hav
 
 Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the _NCC Top-Level Projects phase_. When a new project is applied to join NCC and successfully pass the review and complete the preparatory work before joining, the project will automatically enter the _NCC Sandbox Projects phase_. If you want to apply to join NCC, please read the [How to join us](#how-to-join-us) section.
 
-### Our Top-Level Projects
+### Data
 
-Projects in the _NCC Top-Level Projects phase_ can be used in production environments.
-
-- **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)**, an AOP-based cross platform framework for .NET Standard.
-- **[CAP](https://github.com/dotnetcore/CAP)**, a distributed transaction solution in microservice based on eventually consistency, also an eventbus with Outbox pattern.
-- **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)**, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
-- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**, a cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
-  - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - a FlubuCore plugin that allows you to use any of the Cake addin in FlubuCore.
-  - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - a FlubuCore plugin that adds Microsoft teams specific tasks.
-- **[NPOI](https://github.com/dotnetcore/NPOI)** *([Archived with **announcement**](https://github.com/dotnetcore/NPOI/blob/master/README.md))*, a .net library for reading and writing MsOffice binary and OOXML file formats.
-
-### Our Sandbox Projects
-
-Projects in the _NCC Sandbox Projects phase_ are still in development and they need more time and practice to test their designs.
-
-- **[AgileConfig](https://github.com/dotnetcore/AgileConfig)**, a lightweight configuration center based on .net core . It is easy to deploy , easy to learn , easy to use.
-  - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - an AgileConfig client based on .NET Standard 2.0, can be run on nfx and core.
-- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(Archived)*, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official APIs.
-- **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, a set of enterprise-class UI components based on Bootstrap and Blazor.
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
-- **[FastGithub](https://github.com/dotnetcore/FastGithub)**，a GitHub accelerator. Used to solve the problems of GitHub unable to open, unable to load user avatar, unable to upload and download `releases`, `git-clone` `git-pull` `git-push` failure, etc.
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**, is the ORM in .NET Core, .NET Framework and Xamarin. It supports [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org/), [SqlServer](https://www.microsoft.com/en-us/sql-server/), [Oracle](https://www.oracle.com/database/), [Sqlite](https://www.sqlite.org), [Firebird](https://firebirdsql.org/), [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity), [达梦](http://www.dameng.com/), [瀚高](http://www.highgo.com/content.php?catid=40), [人大金仓](https://www.kingbase.com.cn/), [神通](http://www.shentongdata.com/), [HUAWEI GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb) and [Microsoft Access](https://www.microsoft.com/en-us/microsoft-365/access).
-- **[HttpReports](https://github.com/dotnetcore/HttpReports)**, a lightweight APM system based on .NET Core, can be used to quickly build an integrated site of statistics, analysis, charts, monitoring, and distributed tracking in the .NET Core environment. HttpReports applies to ASP.NET Core MVC/WebAPI, is simple to get started and suitable for use in microservice architecture.
-- **[KoobooJson](https://github.com/kooboo/Json)** *(external)*, smaller and faster C# JSON serialization tool (construction based on expression tree)
-- **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**, a common import and export library for Excel, Word, PDF and HTML.
+- **[Magicodes Exporter&Importer](https://github.com/dotnetcore/Magicodes.IE)**, a common import and export library for Excel, Word, PDF and HTML.
+- **[NPOI](https://github.com/dotnetcore/NPOI)** *([Archived with **announcement**](https://github.com/dotnetcore/NPOI/blob/master/README.md))*, a .net library for reading and writing MsOffice binary and OOXML file formats.
+- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, an excellent open source code generator (of cause not only a generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, also supports custom templates and multiple template styles, and multiple databases.
+- **[SmartSql](https://github.com/dotnetcore/SmartSql)**, SmartSql provides a progressive development experience with simple connection string configuration to run, XML configuration to decouple SQL and a variety of performance observation methods to make performance problems clear at a glance. SmartSql maintains the same level of performance as Dapper and provides a number of features: dynamic proxy storage/distributed cache/type processor/automatic generation of CUD code/distributed Id generator/performance diagnosis/AOP level of things/caches (memory, distributed cache)/read/write separation/code generator/high performance batch insertion, etc.
+- **[ShardingCore](https://github.com/dotnetcore/sharding-core)**, a high performance lightweight solution for efcore sharding table and sharding database support read-write-separation.
+
+### Application Library
+
+- **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)** *(Top-Level)*, an AOP-based cross platform framework for .NET Standard.
+- **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(Top-Level)*, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 - **[Natasha](https://github.com/dotnetcore/Natasha)**, simplify IL operations, optimize the IL programming flow, and write dynamic caches that provide high performance.
   - [Natasha Docs](https://github.com/dotnetcore/Natasha.Docs), the document for Natasha.
 - **[NCC Collection Extensions](https://github.com/dotnetcore/Collections)**, Utilities and extensions for Collections includes Collections.Paginable and so on...
-- **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**, When using the Roslyn library for dynamic compilation, you can introduce the library to provide a dynamic compilation environment.
-- **[OSharp](https://github.com/dotnetcore/OSharp)**, is a rapid development framework based on .NET Core with the latest .NET Core SDK LTS version (currently .NET Core 3.1). The OSharp framework highly automates  the following modules of ASP.NET Core: configuration, dependency injection, Logging, caching, entity framework, MVC / WebAPI, identity authentication, permission authorization, etc. OSharp also standardizes a set of business implementation code and operation processes, making the .NET Core framework easier to apply to the development of actual projects.
-- **[ShardingCore](https://github.com/dotnetcore/sharding-core)**, a high performance lightweight solution for efcore sharding table and sharding database support read-write-separation.
-- **[SmartCode](https://github.com/dotnetcore/SmartCode)**, an excellent open source code generator (of cause not only a generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, also supports custom templates and multiple template styles, and multiple databases.
-- **[SmartSql](https://github.com/dotnetcore/SmartSql)**, SmartSql provides a progressive development experience with simple connection string configuration to run, XML configuration to decouple SQL and a variety of performance observation methods to make performance problems clear at a glance. SmartSql maintains the same level of performance as Dapper and provides a number of features: dynamic proxy storage/distributed cache/type processor/automatic generation of CUD code/distributed Id generator/performance diagnosis/AOP level of things/caches (memory, distributed cache)/read/write separation/code generator/high performance batch insertion, etc.
-- **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WebApiClient](https://github.com/dotnetcore/WebApiClient)**, an open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
   - [WebApiClient Core](https://github.com/dotnetcore/WebApiClient) - .NET Core version of WebApiClient, a Declarative HTTP Client library that integrates high performance and scalability. It is especially suitable for microservice restful resource requests, as well as various malformed http interface requests.
   - [WebApiClient.JIT/AOT](https://github.com/dotnetcore/WebApiClient/tree/WebApiClient.JITAOT) - A Declarative HTTP Client library, you just need to *define* the C# interface and *modify* the relevant features to call the remote http interface asynchronously.
   - [WebApiClient.Extensions](https://github.com/xljiulang/WebApiClient.Extensions) - **Extensions for WebApiClient.JIT**, including extensions to [Autofac](https://github.com/autofac/Autofac), [DependencyInjection](https://github.com/aspnet/DependencyInjection), [HttpClientFactory](https://github.com/aspnet/HttpClientFactory), [SteeltoeOSS.Discovery](https://github.com/SteeltoeOSS/Discovery), [MessagePack](https://github.com/neuecc/MessagePack-CSharp), [Protobuf](https://github.com/mgravell/protobuf-net) and [Json-Rpc](https://www.jsonrpc.org/specification).
   - [WebApiClient.Tools](https://github.com/xljiulang/WebApiClient.Tools) - **Tools for WebApiClient.JIT**, including tools to [Swagger](https://github.com/domaindrivendev/Swashbuckle.WebApi).
+
+
+### Development Framework
+
+- **[OSharp](https://github.com/dotnetcore/OSharp)**, is a rapid development framework based on .NET Core with the latest .NET Core SDK LTS version (currently .NET Core 3.1). The OSharp framework highly automates  the following modules of ASP.NET Core: configuration, dependency injection, Logging, caching, entity framework, MVC / WebAPI, identity authentication, permission authorization, etc. OSharp also standardizes a set of business implementation code and operation processes, making the .NET Core framework easier to apply to the development of actual projects.
+- **[Util](https://github.com/dotnetcore/Util)**, an open source application framework under the .NET Core platform, designed to improve the development efficiency of small teams. It is composed of common helpers, hierarchical architecture design, UI components, third-party component and service interface packages.
 - **[WTM](https://github.com/dotnetcore/WTM)**, a development tool for small and medium-sized back-end management systems. Implement zero-code creation project, zero-code generation management module.
 
-### Our Translation Projects
+### Environment & Tools
+
+- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(Archived)*, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official APIs.
+- **[FastGithub](https://github.com/dotnetcore/FastGithub)**，a GitHub accelerator. Used to solve the problems of GitHub unable to open, unable to load user avatar, unable to upload and download `releases`, `git-clone` `git-pull` `git-push` failure, etc.
+- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)** *(Top-Level)*, a cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
+  - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - a FlubuCore plugin that allows you to use any of the Cake addin in FlubuCore.
+  - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - a FlubuCore plugin that adds Microsoft teams specific tasks.
+- **[KoobooJson](https://github.com/kooboo/Json)** *(external)*, smaller and faster C# JSON serialization tool (construction based on expression tree)
+
+- **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**, When using the Roslyn library for dynamic compilation, you can introduce the library to provide a dynamic compilation environment.
+
+### Infra or Middleware
+
+- **[AgileConfig](https://github.com/dotnetcore/AgileConfig)**, a lightweight configuration center based on .net core . It is easy to deploy , easy to learn , easy to use.
+  - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - an AgileConfig client based on .NET Standard 2.0, can be run on nfx and core.
+- **[HttpReports](https://github.com/dotnetcore/HttpReports)**, a lightweight APM system based on .NET Core, can be used to quickly build an integrated site of statistics, analysis, charts, monitoring, and distributed tracking in the .NET Core environment. HttpReports applies to ASP.NET Core MVC/WebAPI, is simple to get started and suitable for use in microservice architecture.
+- **[CAP](https://github.com/dotnetcore/CAP)** *(Top-Level)*, a distributed transaction solution in microservice based on eventually consistency, also an eventbus with Outbox pattern.
+
+### UI Components
+
+- **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, a set of enterprise-class UI components based on Bootstrap and Blazor.
+
+### Translation
 
 - **[ASP.NET Core Documentation Translation Plan](https://github.com/dotnetcore/aspnetcore-doc-cn)**, The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET China Foundation
 
 ### Projects that Complete the Incubation Work
 
-- **BotSharp**, The Open Source AI Chatbot Platform Builder.
-- **Surging**, a distributed micro-service engine.
-- **ZKWeb**, a flexible web framework with plugin system and template system.
+- **BotSharp** *(graduated and is no longer a member project)*, The Open Source AI Chatbot Platform Builder.
+- **Surging** *(graduated and is no longer a member project)*, a distributed micro-service engine.
+- **ZKWeb** *(graduated and is no longer a member project)*, a flexible web framework with plugin system and template system.
 
 Do you want to be a part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 
