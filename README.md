@@ -85,15 +85,14 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
   - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - a FlubuCore plugin that allows you to use any of the Cake addin in FlubuCore.
   - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - a FlubuCore plugin that adds Microsoft teams specific tasks.
 - **[KoobooJson](https://github.com/kooboo/Json)** *(external)*, smaller and faster C# JSON serialization tool (construction based on expression tree)
-
 - **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**, When using the Roslyn library for dynamic compilation, you can introduce the library to provide a dynamic compilation environment.
 
-### Infra or Middleware
+### Infra & Middleware
 
 - **[AgileConfig](https://github.com/dotnetcore/AgileConfig)**, a lightweight configuration center based on .net core . It is easy to deploy , easy to learn , easy to use.
   - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - an AgileConfig client based on .NET Standard 2.0, can be run on nfx and core.
-- **[HttpReports](https://github.com/dotnetcore/HttpReports)**, a lightweight APM system based on .NET Core, can be used to quickly build an integrated site of statistics, analysis, charts, monitoring, and distributed tracking in the .NET Core environment. HttpReports applies to ASP.NET Core MVC/WebAPI, is simple to get started and suitable for use in microservice architecture.
 - **[CAP](https://github.com/dotnetcore/CAP)** *(Top-Level)*, a distributed transaction solution in microservice based on eventually consistency, also an eventbus with Outbox pattern.
+- **[HttpReports](https://github.com/dotnetcore/HttpReports)**, a lightweight APM system based on .NET Core, can be used to quickly build an integrated site of statistics, analysis, charts, monitoring, and distributed tracking in the .NET Core environment. HttpReports applies to ASP.NET Core MVC/WebAPI, is simple to get started and suitable for use in microservice architecture.
 
 ### UI Components
 
@@ -105,9 +104,9 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 
 ### Projects that Complete the Incubation Work
 
-- **BotSharp** *(graduated and is no longer a member project)*, The Open Source AI Chatbot Platform Builder.
-- **Surging** *(graduated and is no longer a member project)*, a distributed micro-service engine.
-- **ZKWeb** *(graduated and is no longer a member project)*, a flexible web framework with plugin system and template system.
+- **BotSharp**, The Open Source AI Chatbot Platform Builder.
+- **Surging**, a distributed micro-service engine.
+- **ZKWeb**, a flexible web framework with plugin system and template system.
 
 Do you want to be a part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 
@@ -171,8 +170,6 @@ The advertising income in the NCC WeChat public account will be used for the dai
 
 - If you having any trouble about [NCC Member Projects](#repos-and-projects), please go to the repository of that project and create a new issue.
 - If you having some questions about NCC, you may [create an issue](https://github.com/dotnetcore/Home/issues/new) for us.
-- You can alse join our QQGroup (numbered 436035237).
-  That QQGroup is a large group of 3K people, much thanks to XIE Yang for paying the QQGroup every year.
 - The following methods are acceptable:
   - Leave a message in the background of our WeChat account: OpenNCC;
   - Follow us on Twitter: [@ncc_community](https://twitter.com/ncc_community)

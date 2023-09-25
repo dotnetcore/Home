@@ -46,48 +46,56 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 
 我们的成员项目分为两阶段：_沙盒阶段（NCC Sandbox Projects phase）_ 和 _顶级项目阶段（NCC Top-Level Projects phase）_。当新项目申请加入 NCC 并完成评审和加入前的全部流程（包括预备工作）后，项目将自动进入 _沙盒阶段_。申请加入 NCC 请查阅[如何加入我们](#如何加入我们)一节。
 
-### 顶级项目
+### Data
 
-_顶级项目阶段 NCC Top-Level Projects phase_ 的项目可用于生产环境。
-
-- **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)**，.NET Standard 跨平台 AOP 框架。
-- **[CAP](https://github.com/dotnetcore/CAP)**，基于最终一致性的微服务分布式事务解决方案，具有 Outbox 模式的事件总线。
-- **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)**，类似 WebMagic 与 Scrapy 的 .NET Standard 轻量级、高效且高速的高级爬虫库。
-- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)**，跨平台构建与部署自动化系统，基于 C# 代码构建项目和执行部署脚本。（[FlubuCore 的示例](https://github.com/dotnetcore/FlubuCore.Examples)）
-  - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - Cake 插件。
-  - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - Microsoft Teams 插件。
-- **[NPOI](https://github.com/dotnetcore/NPOI)** *([已存档，查看**存档通告**](https://github.com/dotnetcore/NPOI/blob/master/README.zh-CN.md))*，用于读写 Microsoft Office 二进制文件和 OOXML 文件格式的 .NET 类库。
-
-### 沙盒项目
-
-_沙盒阶段 NCC Sandbox Projects phase_ 的项目依旧处于快速发展阶段，且尚需时间和项目来检验其设计。
-
-- **[AgileConfig](https://github.com/dotnetcore/AgileConfig)**, 一个基于.NET Core 的轻量级配置中心。
-  - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - AgileConfig 客户端程序，基于 .NET Standard 2.0 开发，故能运行于 nfx 和 core 应用中。
-- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(已存档)*，基于 .NET Standard 2.0 开发的第三方支付宝服务端 SDK，提供比官方更可靠的设计，但仍与官方 APIs 保持一致。
-- **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, 基于 Bootstrap 的 Blazor 企业级 UI 组件库。
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
+- **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(顶级项目)*，类似 WebMagic 与 Scrapy 的 .NET Standard 轻量级、高效且高速的高级爬虫库。
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**，开源缓存库，包含基本用法和缓存的高级用法，可助我们更轻松地处理缓存。
-- **[FastGithub](https://github.com/dotnetcore/FastGithub)**，GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、`releases` 无法上传下载、`git-clone` `git-pull` `git-push` 失败等问题。
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**，一款功能强大的 ORM 组件，支持 .NET Core、.NET Framework 和 Xamarin。目前 FreeSql 支持以下数据库：[MySQL](https://www.mysql.com)、[PostgreSQL](https://www.postgresql.org/)、[SqlServer](https://www.microsoft.com/en-us/sql-server/)、[Oracle](https://www.oracle.com/database/)、[Sqlite](https://www.sqlite.org)、[Firebird](https://firebirdsql.org/)、[ODBC](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%92%E8%BF%9E/10418782)、[微软 Access](https://www.microsoft.com/en-us/microsoft-365/access) 以及国产数据库[达梦](http://www.dameng.com/)、[人大金仓](https://www.kingbase.com.cn/)、[神通](http://www.shentongdata.com/)、[瀚高](http://www.highgo.com/content.php?catid=40)、[华为 GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb)。
-- **[HttpReports](https://github.com/dotnetcore/HttpReports)**, 是一款基于 .NET Core 的轻量级 APM 系统，可在 .NET Core 环境下快速搭建统计、分析、图标、监控和分布式跟踪一体化的站点，适用于 ASP.NET Core MVC/WebAPI。HttpReports 上手简单，适合在微服务中使用。
-- **[KoobooJson](https://github.com/kooboo/Json)** *(外部项目)*，更小更快的 C# JSON 序列化工具（基于表达式树构建）。
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
-- **[Natasha](https://github.com/dotnetcore/Natasha)**，简化 IL 操作，优化 IL 编程流程，并编写具有高性能的动态缓存。
-  - [Natasha Docs](https://github.com/dotnetcore/Natasha.Docs)，Natasha 的文档项目。
-- **[NCC Collection Extensions](https://github.com/dotnetcore/Collections)**，包括分页组件在内的集合扩展。
-- **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**，使用 Roslyn 库进行动态编译时，可以引入该库提供动态编译的环境。
-- **[OSharp](https://github.com/dotnetcore/OSharp)**，全称 OSharp Framework with .NetStandard2.x，是一个基于 .NetStandard2.x 开发的一个 .NetCore 快速开发框架。这个框架使用最新稳定版的 .NetCore SDK（当前是.NET Core 3.1），对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、权限授权等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。
+- **[NPOI](https://github.com/dotnetcore/NPOI)** *([已存档，查看**存档通告**](https://github.com/dotnetcore/NPOI/blob/master/README.zh-CN.md))*，用于读写 Microsoft Office 二进制文件和 OOXML 文件格式的 .NET 类库。
 - **[ShardingCore](https://github.com/dotnetcore/sharding-core)**，一款 EFCore 下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵。
 - **[SmartCode](https://github.com/dotnetcore/SmartCode)**，优秀的开源代码生成器（不仅仅是生成代码），它基于执行流程，支持 ETL 模式，高度灵活和可扩展，还支持自定义模板和多种模板样式，以及多种数据库。
 - **[SmartSql](https://github.com/dotnetcore/SmartSql)**，通过简单的连接字符串来运行，解析 SQL 的 XML 配置和各种性能观察方法，使性能问题一目了然。 SmartSql 具有与 Dapper 相似的性能水平，并提供许多特性：动态代理存储、分布式缓存、类型处理器、自动生成 CUD 代码、分布式 Id 生成器、性能诊断、AOP 级别的事务/缓存（内存，分布式缓存）、读/写分离、代码生成器、高性能的批量插入等。
-- **[Util](https://github.com/dotnetcore/Util)**，.NET Core 平台下的开源应用程序，旨在提高小型团队的开发效率。 它由通用帮助程序，分层体系结构设计，UI 组件，第三方组件和服务接口包组成。
+
+### Application Library
+
+- **[AspectCore](https://github.com/dotnetcore/AspectCore-Framework)** *(顶级项目)*，.NET Standard 跨平台 AOP 框架。
+- **[Natasha](https://github.com/dotnetcore/Natasha)**，简化 IL 操作，优化 IL 编程流程，并编写具有高性能的动态缓存。
+  - [Natasha Docs](https://github.com/dotnetcore/Natasha.Docs)，Natasha 的文档项目。
+- **[NCC Collection Extensions](https://github.com/dotnetcore/Collections)**，包括分页组件在内的集合扩展。
 - **[WebApiClient](https://github.com/dotnetcore/WebApiClient)**，基于 HttpClient 的开源项目，只需通过定义 C# 接口并修改一些细节便可异步调用远程 HTTP 接口。
   - [WebApiClient Core](https://github.com/dotnetcore/WebApiClient) - .NET Core 版本的 WebApiClient, 集高性能高可扩展性于一体的声明式 HTTP 客户端库，特别适用于微服务的 RESTful 资源请求，也适用于各种畸形 HTTP 接口请求。
   - [WebApiClient.JIT/AOT](https://github.com/dotnetcore/WebApiClient/tree/WebApiClient.JITAOT) - 一款声明式的 HTTP 客户端库，只需要定义 C# 接口并修饰相关特性，即可异步调用远程 HTTP 接口。
   - [WebApiClient.Extensions](https://github.com/xljiulang/WebApiClient.Extensions) - **WebApiClient.JIT 扩展**, 包括对 [Autofac](https://github.com/autofac/Autofac), [DependencyInjection](https://github.com/aspnet/DependencyInjection), [HttpClientFactory](https://github.com/aspnet/HttpClientFactory), [SteeltoeOSS.Discovery](https://github.com/SteeltoeOSS/Discovery), [MessagePack](https://github.com/neuecc/MessagePack-CSharp), [Protobuf](https://github.com/mgravell/protobuf-net) 和 [Json-Rpc](https://www.jsonrpc.org/specification) 的扩展。
   - [WebApiClient.Tools](https://github.com/xljiulang/WebApiClient.Tools) - **WebApiClient.JI 工具集T**, 包括 [Swagger](https://github.com/domaindrivendev/Swashbuckle.WebApi) 工具。
+
+### Development Framework
+
+- **[OSharp](https://github.com/dotnetcore/OSharp)**，全称 OSharp Framework with .NetStandard2.x，是一个基于 .NetStandard2.x 开发的一个 .NetCore 快速开发框架。这个框架使用最新稳定版的 .NetCore SDK（当前是.NET Core 3.1），对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、权限授权等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。
+- **[Util](https://github.com/dotnetcore/Util)**，.NET Core 平台下的开源应用程序，旨在提高小型团队的开发效率。 它由通用帮助程序，分层体系结构设计，UI 组件，第三方组件和服务接口包组成。
 - **[WTM](https://github.com/dotnetcore/WTM)**，针对中小规模后台管理系统的开发利器，基于 .NET Core，实现零编码创建项目、零编码生成业务模块。框架严格遵循 MVVM 的开发模式，经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。
+
+### Environment & Tools
+
+- **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(已存档)*，基于 .NET Standard 2.0 开发的第三方支付宝服务端 SDK，提供比官方更可靠的设计，但仍与官方 APIs 保持一致。
+- **[FastGithub](https://github.com/dotnetcore/FastGithub)**，GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、`releases` 无法上传下载、`git-clone` `git-pull` `git-push` 失败等问题。
+- **[FlubuCore](https://github.com/dotnetcore/FlubuCore)** *(顶级项目)*，跨平台构建与部署自动化系统，基于 C# 代码构建项目和执行部署脚本。（[FlubuCore 的示例](https://github.com/dotnetcore/FlubuCore.Examples)）
+  - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - Cake 插件。
+  - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - Microsoft Teams 插件。
+- **[KoobooJson](https://github.com/kooboo/Json)** *(外部项目)*，更小更快的 C# JSON 序列化工具（基于表达式树构建）。
+- **[NCC Compile Environment](https://github.com/dotnetcore/Compile.Environment)**，使用 Roslyn 库进行动态编译时，可以引入该库提供动态编译的环境。
+
+### Infra & Middleware
+
+- **[AgileConfig](https://github.com/dotnetcore/AgileConfig)**, 一个基于.NET Core 的轻量级配置中心。
+  - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - AgileConfig 客户端程序，基于 .NET Standard 2.0 开发，故能运行于 nfx 和 core 应用中。
+- **[CAP](https://github.com/dotnetcore/CAP)** *(顶级项目)*，基于最终一致性的微服务分布式事务解决方案，具有 Outbox 模式的事件总线。
+- **[HttpReports](https://github.com/dotnetcore/HttpReports)**, 是一款基于 .NET Core 的轻量级 APM 系统，可在 .NET Core 环境下快速搭建统计、分析、图标、监控和分布式跟踪一体化的站点，适用于 ASP.NET Core MVC/WebAPI。HttpReports 上手简单，适合在微服务中使用。
+
+### UI 组件
+
+- **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, 基于 Bootstrap 的 Blazor 企业级 UI 组件库。
 
 ### 翻译项目
 
