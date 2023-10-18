@@ -51,6 +51,8 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
 - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(顶级项目)*，类似 WebMagic 与 Scrapy 的 .NET Standard 轻量级、高效且高速的高级爬虫库。
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**，开源缓存库，包含基本用法和缓存的高级用法，可助我们更轻松地处理缓存。
+- **[EntityFrameworkCore.GaussDB](https://github.com/dotnetcore/EntityFrameworkCore.GaussDB)**，华为 GaussDB 的 Entity Framework Core 驱动。
+- **[EntityFrameworkCore.KingbaseES](https://github.com/dotnetcore/EntityFrameworkCore.KingbaseES)**，人大金仓 KingbaseES 的 Entity Framework Core 驱动。
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**，一款功能强大的 ORM 组件，支持 .NET Core、.NET Framework 和 Xamarin。目前 FreeSql 支持以下数据库：[MySQL](https://www.mysql.com)、[PostgreSQL](https://www.postgresql.org/)、[SqlServer](https://www.microsoft.com/en-us/sql-server/)、[Oracle](https://www.oracle.com/database/)、[Sqlite](https://www.sqlite.org)、[Firebird](https://firebirdsql.org/)、[ODBC](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%92%E8%BF%9E/10418782)、[微软 Access](https://www.microsoft.com/en-us/microsoft-365/access) 以及国产数据库[达梦](http://www.dameng.com/)、[人大金仓](https://www.kingbase.com.cn/)、[神通](http://www.shentongdata.com/)、[瀚高](http://www.highgo.com/content.php?catid=40)、[华为 GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb)。
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
 - **[NPOI](https://github.com/dotnetcore/NPOI)** *([已存档，查看**存档通告**](https://github.com/dotnetcore/NPOI/blob/master/README.zh-CN.md))*，用于读写 Microsoft Office 二进制文件和 OOXML 文件格式的 .NET 类库。
@@ -69,8 +71,6 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
   - [WebApiClient.JIT/AOT](https://github.com/dotnetcore/WebApiClient/tree/WebApiClient.JITAOT) - 一款声明式的 HTTP 客户端库，只需要定义 C# 接口并修饰相关特性，即可异步调用远程 HTTP 接口。
   - [WebApiClient.Extensions](https://github.com/xljiulang/WebApiClient.Extensions) - **WebApiClient.JIT 扩展**, 包括对 [Autofac](https://github.com/autofac/Autofac), [DependencyInjection](https://github.com/aspnet/DependencyInjection), [HttpClientFactory](https://github.com/aspnet/HttpClientFactory), [SteeltoeOSS.Discovery](https://github.com/SteeltoeOSS/Discovery), [MessagePack](https://github.com/neuecc/MessagePack-CSharp), [Protobuf](https://github.com/mgravell/protobuf-net) 和 [Json-Rpc](https://www.jsonrpc.org/specification) 的扩展。
   - [WebApiClient.Tools](https://github.com/xljiulang/WebApiClient.Tools) - **WebApiClient.JI 工具集T**, 包括 [Swagger](https://github.com/domaindrivendev/Swashbuckle.WebApi) 工具。
-
-
 
 ### Development Framework
 
@@ -168,8 +168,6 @@ NCC 微信公众号内的广告所得将用于公众号的日常运营、社区�
 
 - 在使用 [NCC 成员项目](#仓库与项目)遇到问题，请到相应项目下提交 issue；
 - 对 NCC 的建议和意见，可以[在此创建 issue](https://github.com/dotnetcore/Home/issues/new)，与我们取得联系；
-- 也可以通过 QQ 群（号码 436035237）反馈。
-  这个群是个 3000 人大群，感谢谢炀先生每年为这个群续费。
 - 以下方式都是可以接受的：
   - 在我们微信公众号的后台留言：OpenNCC；
   - 关注我们的推特：[@ncc_community](https://twitter.com/ncc_community)
