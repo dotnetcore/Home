@@ -51,8 +51,8 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 - **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**，[Alibaba Canal](https://github.com/alibaba/canal) 的开源 .NET 客户端，Alibaba Canal 是一个基于 MySQL `binlog` 的增量发布与订阅组件。更多信息请查阅 [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki)。
 - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(顶级项目)*，类似 WebMagic 与 Scrapy 的 .NET Standard 轻量级、高效且高速的高级爬虫库。
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**，开源缓存库，包含基本用法和缓存的高级用法，可助我们更轻松地处理缓存。
-- **[EntityFrameworkCore.GaussDB](https://github.com/dotnetcore/EntityFrameworkCore.GaussDB)**，华为 GaussDB 的 Entity Framework Core 驱动。
-- **[EntityFrameworkCore.KingbaseES](https://github.com/dotnetcore/EntityFrameworkCore.KingbaseES)**，人大金仓 KingbaseES 的 Entity Framework Core 驱动。
+- **[EntityFrameworkCore.GaussDB](https://github.com/dotnetcore/EntityFrameworkCore.GaussDB)** *(incubation)*，华为 GaussDB 的 Entity Framework Core 驱动。
+- **[EntityFrameworkCore.KingbaseES](https://github.com/dotnetcore/EntityFrameworkCore.KingbaseES)** *(incubation)*，人大金仓 KingbaseES 的 Entity Framework Core 驱动。
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**，一款功能强大的 ORM 组件，支持 .NET Core、.NET Framework 和 Xamarin。目前 FreeSql 支持以下数据库：[MySQL](https://www.mysql.com)、[PostgreSQL](https://www.postgresql.org/)、[SqlServer](https://www.microsoft.com/en-us/sql-server/)、[Oracle](https://www.oracle.com/database/)、[Sqlite](https://www.sqlite.org)、[Firebird](https://firebirdsql.org/)、[ODBC](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%92%E8%BF%9E/10418782)、[微软 Access](https://www.microsoft.com/en-us/microsoft-365/access) 以及国产数据库[达梦](http://www.dameng.com/)、[人大金仓](https://www.kingbase.com.cn/)、[神通](http://www.shentongdata.com/)、[瀚高](http://www.highgo.com/content.php?catid=40)、[华为 GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb)。
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
 - **[NPOI](https://github.com/dotnetcore/NPOI)** *([已存档，查看**存档通告**](https://github.com/dotnetcore/NPOI/blob/master/README.zh-CN.md))*，用于读写 Microsoft Office 二进制文件和 OOXML 文件格式的 .NET 类库。
@@ -94,7 +94,7 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
   - [AgileConfig Client](https://github.com/kklldog/AgileConfig_Client) - AgileConfig 客户端程序，基于 .NET Standard 2.0 开发，故能运行于 nfx 和 core 应用中。
 - **[CAP](https://github.com/dotnetcore/CAP)** *(顶级项目)*，基于最终一致性的微服务分布式事务解决方案，具有 Outbox 模式的事件总线。
 - **[HttpReports](https://github.com/dotnetcore/HttpReports)**, 是一款基于 .NET Core 的轻量级 APM 系统，可在 .NET Core 环境下快速搭建统计、分析、图标、监控和分布式跟踪一体化的站点，适用于 ASP.NET Core MVC/WebAPI。HttpReports 上手简单，适合在微服务中使用。
-- **[Mocha](https://github.com/dotnetcore/mocha)**，一款基于[OpenTelemetry](https://opentelemetry.io/) 的应用程序性能监控工具，为可观测性数据分析和存储提供了可扩展的平台。
+- **[Mocha](https://github.com/dotnetcore/mocha)** *(incubation)*，一款基于[OpenTelemetry](https://opentelemetry.io/) 的应用程序性能监控工具，为可观测性数据分析和存储提供了可扩展的平台。
 
 ### UI 组件
 
