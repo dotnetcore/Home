@@ -171,5 +171,5 @@ NCC 微信公众号内的广告所得将用于公众号的日常运营、社区�
 - 以下方式都是可以接受的：
   - 在我们微信公众号的后台留言：OpenNCC；
   - 关注我们的推特：[@ncc_community](https://twitter.com/ncc_community)
-  - 关注我们的电报频道：[@ncc_radio](https://t.me/nccradio)
+  - 关注我们的电报频道：[@ncc_radio](https://t.me/ncc_radio)
 - 最后，你可以通过邮件与我们取得联系：`contact#ncc.work` （将 `#` 改为 `@`）
