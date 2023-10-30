@@ -15,10 +15,10 @@
 .NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的非官方、非盈利性的民间开源社区，她诞生于 2016 年年中，由[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生、娄宇先生和[刘怡](https://github.com/alexinea)先生联合发起、近百名 .NET 开发者共同成立。我们希望通过我们 NCC 社区的努力，与各个开源社区一道为 .NET 生态注入更多活力。
 
 - Github: https://github.com/dotnetcore
-- 官方网站: https://www.dotnetcore.xyz
-- CORE QQ 群: 436035237
-- PURE QQ 群：邀请制
+- WebSite: https://www.dotnetcore.xyz
+- QQ Group: 436035237
 - 微信群组: _二维码请在 CORE QQ 群里询问_
+- Reddit 社群：[TheNCC](https://www.reddit.com/r/TheNCC/)
 
 ## 我们的历史
 
@@ -172,4 +172,5 @@ NCC 微信公众号内的广告所得将用于公众号的日常运营、社区�
   - 在我们微信公众号的后台留言：OpenNCC；
   - 关注我们的推特：[@ncc_community](https://twitter.com/ncc_community)
   - 关注我们的电报频道：[@ncc_radio](https://t.me/ncc_radio)
+  - 加入我们的 Reddit 社区：[r/TheNCC](https://www.reddit.com/r/TheNCC/)
 - 最后，你可以通过邮件与我们取得联系：`contact#ncc.work` （将 `#` 改为 `@`）

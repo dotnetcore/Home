@@ -16,9 +16,9 @@
 
 - Github: https://github.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
-- CORE QQ Group: 436035237
-- PURE QQ Group: by invitation
+- QQ Group: 436035237
 - WeChat Group: _Consult in the CORE QQ Group_
+- Reddit Community: [r/TheNCC](https://www.reddit.com/r/TheNCC/)
 
 ## The History of NCC
 
@@ -178,4 +178,5 @@ The advertising income in the NCC WeChat public account will be used for the dai
   - Leave a message in the background of our WeChat account: OpenNCC;
   - Follow us on Twitter: [@ncc_community](https://twitter.com/ncc_community)
   - Follow our Telegram Channel: [@ncc_radio](https://t.me/ncc_radio)
+  - Join our Reddit Community: [r/TheNCC](https://www.reddit.com/r/TheNCC/)
 - Finally, you can contact us via email: `contact#ncc.work` (change `#` to `@`).
