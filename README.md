@@ -83,7 +83,7 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 ### Environment & Tools
 
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(Archived)*, a third-party Alipay server SDK, based on .NET Standard 2.0 development, provides a more reliable design than the official, but remains consistent with the official APIs.
-- **[FastGithub](https://github.com/dotnetcore/FastGithub)**，a GitHub accelerator. Used to solve the problems of GitHub unable to open, unable to load user avatar, unable to upload and download `releases`, `git-clone` `git-pull` `git-push` failure, etc.
+- **FastGithub** *(Archived)*，a GitHub accelerator. Used to solve the problems of GitHub unable to open, unable to load user avatar, unable to upload and download `releases`, `git-clone` `git-pull` `git-push` failure, etc.
 - **[FlubuCore](https://github.com/dotnetcore/FlubuCore)** *(Top-Level)*, a cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.([Example for FlubuCore](https://github.com/dotnetcore/FlubuCore.Examples))
   - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - a FlubuCore plugin that allows you to use any of the Cake addin in FlubuCore.
   - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - a FlubuCore plugin that adds Microsoft teams specific tasks.

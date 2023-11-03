@@ -81,7 +81,7 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 ### Environment & Tools
 
 - **[Alipay SDK](https://github.com/dotnetcore/Alipay.AopSdk.Core)** *(已存档)*，基于 .NET Standard 2.0 开发的第三方支付宝服务端 SDK，提供比官方更可靠的设计，但仍与官方 APIs 保持一致。
-- **[FastGithub](https://github.com/dotnetcore/FastGithub)**，GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、`releases` 无法上传下载、`git-clone` `git-pull` `git-push` 失败等问题。
+- **FastGithub** *(已存档)*，GitHub 加速神器，解决 GitHub 打不开、用户头像无法加载、`releases` 无法上传下载、`git-clone` `git-pull` `git-push` 失败等问题。
 - **[FlubuCore](https://github.com/dotnetcore/FlubuCore)** *(顶级项目)*，跨平台构建与部署自动化系统，基于 C# 代码构建项目和执行部署脚本。（[FlubuCore 的示例](https://github.com/dotnetcore/FlubuCore.Examples)）
   - [FlubuCore.CakePlugin](https://github.com/flubu-core/FlubuCore.CakePlugin) - Cake 插件。
   - [FlubuCore.TeamsPlugin](https://github.com/flubu-core/FlubuCore.TeamsPlugin) - Microsoft Teams 插件。
