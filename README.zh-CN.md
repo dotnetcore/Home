@@ -15,6 +15,7 @@
 .NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的非官方、非盈利性的民间开源社区，她诞生于 2016 年年中，由[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生、娄宇先生和[刘怡](https://github.com/alexinea)先生联合发起、近百名 .NET 开发者共同成立。我们希望通过我们 NCC 社区的努力，与各个开源社区一道为 .NET 生态注入更多活力。
 
 - Github: https://github.com/dotnetcore
+- Gitee: https://gitee.com/dotnetcore
 - WebSite: https://www.dotnetcore.xyz
 - QQ Group: 436035237
 - 微信群组: _二维码请在 CORE QQ 群里询问_
@@ -100,7 +101,16 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 
 - **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, 基于 Bootstrap 的 Blazor 企业级 UI 组件库。
 
+### 实验室项目
+
+_实验室项目将不列入成员项目目录_
+
+- [BTFindTree](https://github.com/dotnet-lab/BTFindTree) *(Labs)*，此项目为 NCaller 高效查找数据结构，使用二分+桶的方式优化查找性能。
+- [Papper](https://github.com/dotnet-lab/Papper) *(Labs)*，基于 Roslyn 对语法树的一个封装，便于开发者操作语法树。
+
 ### 翻译项目
+
+_翻译项目将不列入成员项目目录_
 
 - **[ASP.NET Core 文档翻译计划](https://github.com/dotnetcore/aspnetcore-doc-cn)**，由 .NET China Foundation（已更名为 NCC）发起的微软 ASP.NET Core 文档翻译计划。
 

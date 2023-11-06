@@ -102,7 +102,16 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 
 - **[BootstrapBlazor](https://github.com/dotnetcore/BootstrapBlazor)**, a set of enterprise-class UI components based on Bootstrap and Blazor.
 
+### Labs
+
+*Laboratory projects will not be included in the members' project directory.*
+
+- [BTFindTree](https://github.com/dotnet-lab/BTFindTree) *(Labs)*, this project provides efficient data structures for the NCaller project, optimizing search performance using a combination of binary search and bucketing.
+- [Papper](https://github.com/dotnet-lab/Papper) *(Labs)*, based on Roslyn, it is a wrapper for the syntax tree, making it easier for developers to manipulate the syntax tree.
+
 ### Translation
+
+*Translation projects will not be included in the members' project directory.*
 
 - **[ASP.NET Core Documentation Translation Plan](https://github.com/dotnetcore/aspnetcore-doc-cn)**, The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET China Foundation
 
