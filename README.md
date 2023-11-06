@@ -15,6 +15,7 @@
 .NET Core Community (means .net's central community, referred to as NCC) is an unofficial, non-profit open source community based on the .NET technology stack. It was organized by [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398), LOU Yu and [Alex LEWIS](https://github.com/alexinea) co-initiated the construction in mid-2016, with the participation of colleagues in the community. We hope that through our efforts, we can make the .NET ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
+- Gitee: https://gitee.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
 - QQ Group: 436035237
 - WeChat Group: _Consult in the CORE QQ Group_
@@ -48,7 +49,7 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 
 ### Data
 
-- **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Cancal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
+- **[CanalSharp](https://github.com/dotnetcore/CanalSharp)**, An open source .net client for [Alibaba Canal](https://github.com/alibaba/canal). Alibaba Canal is an incremental publish & subscription component based on MySql's `binlog`. For more detail please visit [https://github.com/alibaba/canal/wiki](https://github.com/alibaba/canal/wiki).
 - **[DotnetSpider](https://github.com/dotnetcore/DotnetSpider)** *(Top-Level)*, a .NET Standard web crawling library similar to WebMagic and Scrapy. It is a lightweight ,efficient and fast high-level web crawling & scraping framework for .NET.
 - **[EasyCaching](https://github.com/dotnetcore/EasyCaching)**, an open source caching library that contains basic usage and some advanced usages of caching which can help us to handle caching more easier.
 - **[EntityFrameworkCore.GaussDB](https://github.com/dotnetcore/EntityFrameworkCore.GaussDB)** *(incubation)*, an Entity Framework Core provider for GaussDB.
