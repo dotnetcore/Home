@@ -12,14 +12,13 @@
 
 # .NET Core Community Home
 
-.NET Core Community （.NET 中心社区，简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的非官方、非盈利性的民间开源社区，她诞生于 2016 年年中，由[刘浩杨](https://github.com/liuhaoyang)先生、[何镇汐](https://github.com/utilcore)先生、[谢炀](https://github.com/kiler398)先生、娄宇先生和[刘怡](https://github.com/alexinea)先生联合发起、近百名 .NET 开发者共同成立。我们希望通过我们 NCC 社区的努力，与各个开源社区一道为 .NET 生态注入更多活力。
+.NET Core Community （简称 NCC）是一个基于并围绕着 .NET 技术栈展开组织和活动的非官方、非盈利性的民间开源社区，她诞生于 2016 年年中，由几位年轻人联合近百名 .NET 开发者共同建立。我们希望通过我们 NCC 社区的努力，与各个开源社区一道为 .NET 生态注入更多活力。
 
 - Github: https://github.com/dotnetcore
 - Gitee: https://gitee.com/dotnetcore
 - WebSite: https://www.dotnetcore.xyz
-- QQ Group: 436035237
-- 微信群组: _二维码请在 CORE QQ 群里询问_
 - Reddit 社群：[TheNCC](https://www.reddit.com/r/TheNCC/)
+- 我们
 
 ## 我们的历史
 
@@ -37,11 +36,17 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 
 2020 年，这个特殊的年份，我们更新了社区规则，并经受住了多重巨大考验，成员项目取得长足发展，Surging 为了更广阔的前景完成了 NCC 的孵化，并成立了独立社区。FlubuCore 成为社区第一个 .NET 基金会成员；晓晨的 Alipay SDK 也完成了全部历史使命，进入归档状态。
 
-2021 年，我们期待社区得到更大的发展。
+从 2020 年至今，我们社区遭到了技术黑恶势力的攻击和诽谤，但 NCC 得到了大多数技术社区和广大开发者的支持，他们明辨事理，德才兼备，他们是 .NET 的中坚力量。
+
+2023 年 - 2024 年，我们将华丽转身，继续探索新的未来。
+
+*我们将在 2024 年为大家带来更多惊喜和收获。*
 
 ## 我们的行为准则
 
 为了建设开放、创新、包容和热情的社区，我们制定了[组织成员行为准则](code-of-conduct.zh-CN.md)。
+
+（已经得到了更新）
 
 ## 仓库与项目
 
@@ -55,6 +60,7 @@ NCC 最初的目标是翻译微软 ASP.NET Core（时名 ASP.NET 5）的官方�
 - **[EntityFrameworkCore.GaussDB](https://github.com/dotnetcore/EntityFrameworkCore.GaussDB)** *(incubation)*，华为 GaussDB 的 Entity Framework Core 驱动。
 - **[EntityFrameworkCore.KingbaseES](https://github.com/dotnetcore/EntityFrameworkCore.KingbaseES)** *(incubation)*，人大金仓 KingbaseES 的 Entity Framework Core 驱动。
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**，一款功能强大的 ORM 组件，支持 .NET Core、.NET Framework 和 Xamarin。目前 FreeSql 支持以下数据库：[MySQL](https://www.mysql.com)、[PostgreSQL](https://www.postgresql.org/)、[SqlServer](https://www.microsoft.com/en-us/sql-server/)、[Oracle](https://www.oracle.com/database/)、[Sqlite](https://www.sqlite.org)、[Firebird](https://firebirdsql.org/)、[ODBC](https://baike.baidu.com/item/%E5%BC%80%E6%94%BE%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%92%E8%BF%9E/10418782)、[微软 Access](https://www.microsoft.com/en-us/microsoft-365/access) 以及国产数据库[达梦](http://www.dameng.com/)、[人大金仓](https://www.kingbase.com.cn/)、[神通](http://www.shentongdata.com/)、[瀚高](http://www.highgo.com/content.php?catid=40)、[华为 GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb)。
+- **[GaussDB .NET 驱动程序](https://github.com/dotnetcore/DotNetCore.GaussDB)**，针对 GaussDB 的 .NET Core 驱动程序。它同时也是 GaussDB Provider for EntityFramework Core 的基础。
 - **[Magicodes Exporter and Importer](https://github.com/dotnetcore/Magicodes.IE)**，导入导出通用库，支持 Excel、Word、PDF 与 HTML。
 - **[NPOI](https://github.com/dotnetcore/NPOI)** *([已存档，查看**存档通告**](https://github.com/dotnetcore/NPOI/blob/master/README.zh-CN.md))*，用于读写 Microsoft Office 二进制文件和 OOXML 文件格式的 .NET 类库。
 - **[ShardingCore](https://github.com/dotnetcore/sharding-core)**，一款 EFCore 下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵。
@@ -116,9 +122,7 @@ _翻译项目将不列入成员项目目录_
 
 ### 已完成孵化的项目
 
-- **BotSharp**，开源的 AI 聊天机器人构建平台。
-- **Surging**，分布式微服务引擎。
-- **ZKWeb**，一个灵活的带有插件系统和模板系统框架。
+**BotSharp**、**Surging**、**ZKWeb**
 
 想加入我们么？下一个 NCC 成员项目非你莫属！[下一节](#如何加入我们)将介绍如何加入我们。
 

@@ -12,13 +12,11 @@
 
 # .NET Core Community Home
 
-.NET Core Community (means .net's central community, referred to as NCC) is an unofficial, non-profit open source community based on the .NET technology stack. It was organized by [LIU Haoyang](https://github.com/liuhaoyang), [HE Zhenxi](https://github.com/utilcore), [XIE Yang](https://github.com/kiler398), LOU Yu and [Alex LEWIS](https://github.com/alexinea) co-initiated the construction in mid-2016, with the participation of colleagues in the community. We hope that through our efforts, we can make the .NET ecosystem more exciting.
+.NET Core Community (referred to as NCC) is an unofficial, non-profit open source community based on the .NET technology stack. It was established in mid-2016 by a group of young people in conjunction with nearly 100 .NET developers. We hope that through our efforts, we can make the .NET ecosystem more exciting.
 
 - Github: https://github.com/dotnetcore
 - Gitee: https://gitee.com/dotnetcore
 - Website: https://www.dotnetcore.xyz
-- QQ Group: 436035237
-- WeChat Group: _Consult in the CORE QQ Group_
 - Reddit Community: [r/TheNCC](https://www.reddit.com/r/TheNCC/)
 
 ## The History of NCC
@@ -37,11 +35,17 @@ At the end of 2019, we adopted and launched [MEMBER CODE OF CONDUCT](code-of-con
 
 In 2020, a special year, we have updated the community rules and withstood multiple huge challenges. Member projects have made great progress. Surging has completed the incubation of NCC for a broader prospect and established an independent community. FlubuCore became the first .NET Foundation member project in our community. NCC Alipay SDK completed its historical mission and was archived.
 
-In 2021, we look forward to the tremendous growth of our community.
+Since 2020, our community has been under attack and defamed by certain extremist technologists and a few self-serving authors of open-source projects. However, NCC has received support from the majority of the technical community and a vast number of developers who have the wisdom and talent to discern the truth. They are the backbone of .NET.
+
+In the years 2023-2024, we will make a magnificent transformation and continue to explore a new future.
+
+*We will bring more surprises and achievements to everyone in 2024.*
 
 ## Members' Code of Conduct
 
 In order to build an open, innovative, inclusive and welcoming community, we have published the [Code of Conduct for Members](code-of-conduct.md).
+
+(It has been updated.)
 
 ## Repos and Projects
 
@@ -55,6 +59,7 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 - **[EntityFrameworkCore.GaussDB](https://github.com/dotnetcore/EntityFrameworkCore.GaussDB)** *(incubation)*, an Entity Framework Core provider for GaussDB.
 - **[EntityFrameworkCore.KingbaseES](https://github.com/dotnetcore/EntityFrameworkCore.KingbaseES)** *(incubation)*, an Entity Framework Core provider for KingbaseES.
 - **[FreeSql](https://github.com/dotnetcore/FreeSql)**, is the ORM in .NET Core, .NET Framework and Xamarin. It supports [MySQL](https://www.mysql.com), [PostgreSQL](https://www.postgresql.org/), [SqlServer](https://www.microsoft.com/en-us/sql-server/), [Oracle](https://www.oracle.com/database/), [Sqlite](https://www.sqlite.org), [Firebird](https://firebirdsql.org/), [ODBC](https://en.wikipedia.org/wiki/Open_Database_Connectivity), [达梦](http://www.dameng.com/), [瀚高](http://www.highgo.com/content.php?catid=40), [KingbaseES](https://www.kingbase.com.cn/), [神通](http://www.shentongdata.com/), [HUAWEI GaussDB](https://e.huawei.com/cn/products/cloud-computing-dc/gaussdb) and [Microsoft Access](https://www.microsoft.com/en-us/microsoft-365/access).
+- **[GaussDB Driver for .NET](https://github.com/dotnetcore/DotNetCore.GaussDB)**, NET Core driver for GaussDB. It is also the basis for the GaussDB Provider for EntityFramework Core.
 - **[Magicodes Exporter&Importer](https://github.com/dotnetcore/Magicodes.IE)**, a common import and export library for Excel, Word, PDF and HTML.
 - **[NPOI](https://github.com/dotnetcore/NPOI)** *([Archived with **announcement**](https://github.com/dotnetcore/NPOI/blob/master/README.md))*, a .net library for reading and writing MsOffice binary and OOXML file formats.
 - **[SmartCode](https://github.com/dotnetcore/SmartCode)**, an excellent open source code generator (of cause not only a generates code). It's based on execution flow, supports ETL mode, highly flexible and scalable, also supports custom templates and multiple template styles, and multiple databases.
@@ -118,9 +123,7 @@ Our project is divided into two phases: the _NCC Sandbox Projects phase_ and the
 
 ### Projects that Complete the Incubation Work
 
-- **BotSharp**, The Open Source AI Chatbot Platform Builder.
-- **Surging**, a distributed micro-service engine.
-- **ZKWeb**, a flexible web framework with plugin system and template system.
+**BotSharp**, **Surging**， **ZKWeb**
 
 Do you want to be a part of us? The next great NCC project, will be yours. The [next section](#how-to-join-us) will tell you how to join us.
 
