@@ -16,8 +16,9 @@
 
 - Github: https://github.com/dotnetcore
 - Gitee: https://gitee.com/dotnetcore
+- AtomGit: https://atomgit.com/dotnetcore
 - WebSite: https://www.dotnetcore.xyz
-- Reddit 社群：[TheNCC](https://www.reddit.com/r/TheNCC/)
+- Reddit 社群：[WeNCC](https://www.reddit.com/r/WeNCC/)
 - 我们
 
 ## 我们的历史
