@@ -192,5 +192,5 @@ The advertising income in the NCC WeChat public account will be used for the dai
   - Leave a message in the background of our WeChat account: OpenNCC;
   - Follow us on Twitter: [@ncc_community](https://twitter.com/ncc_community)
   - Follow our Telegram Channel: [@ncc_radio](https://t.me/ncc_radio)
-  - Join our Reddit Community: [r/TheNCC](https://www.reddit.com/r/TheNCC/)
+  - Join our Reddit Community: [r/WeNCC](https://www.reddit.com/r/WeNCC/)
 - Finally, you can contact us via email: `contact#ncc.work` (change `#` to `@`).
